@@ -1,1 +1,0 @@
-The player with whom a model is currently [Friendly](Enemy-Friendly).

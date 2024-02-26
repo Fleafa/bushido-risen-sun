@@ -1,2 +1,2 @@
 The model with the Initiative checks its Attack dice first in Melee Exchanges and declares the use of [[Ki Boosts]] and Ki Feats after their Opponent (See Melee Sequence p.42).
-The [[Activating model]] has the Initiative unless a trait, State or game [[effects]] changes this.
+The [[Activating Model]] has the Initiative unless a trait, State or game [[Effects]] changes this.
