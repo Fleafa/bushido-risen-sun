@@ -1,3 +1,6 @@
+---
+title: Getting Ready
+---
 For a game of Bushido, each player will need:
 
 - A copy of these rules.
