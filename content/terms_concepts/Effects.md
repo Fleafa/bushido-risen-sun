@@ -1,0 +1,2 @@
+This is a catch-all term for various rules including Ki Feats, Theme bonuses, Unique Effects, Event Cards or others.
+Usually, for timing we say “Effects that happen in this phase” or similar; this means any rule that says it happens in that phase.
