@@ -1,6 +1,6 @@
 ![[Berserk]]
 
-![[Bleed]]
+![[Bleeding]]
 
 ![[Blind]]
 
@@ -18,7 +18,7 @@
 
 ![[Immobilised]]
 
-![[Impetuous]]
+![[Rulebook/states/Impetuous]]
 
 ![[On Fire]]
 
