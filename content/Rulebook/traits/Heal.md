@@ -1,3 +1,6 @@
+---
+title: Heal (X)
+---
 This model may declare a Simple Heal action and attempt to enter BtB with another non-Soulless model by moving up to its Move Statistic.
 If, at the end of its movement, it is in BtB with the chosen model Heal X marked wounds from the Wound Track of the chosen model.
 This model may choose to heal itself.
