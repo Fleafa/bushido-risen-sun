@@ -1,3 +1,7 @@
+---
+title: Terms & Concepts
+---
+
 ![[Activating Model]]
 
 ![[Active Player]]
@@ -52,7 +56,7 @@
 
 ![[Movement]]
 
-![[Open and Hidden Information]]
+![[Open-Hidden Information]]
 
 ![[Owner]]
 
