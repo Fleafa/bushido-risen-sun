@@ -1,12 +1,18 @@
+@use "./base.scss";
+
 blockquote {
 	margin: 0 0 10px 0;
 	padding-left: 0;
 	padding: 10px;
-	border: 1px solid orangered;
+	border: 1px solid slategrey;
+	border-radius: 5px;
   }
 
-blockquote.h1 {
-	margin-top: 0;
-	margin-bottom: .51rem;
-	font-size: 1.4rem;
-}
+  blockquote h2 a.internal {
+	  padding: 0;
+	  background-color: transparent;
+  }
+
+  blockquote h2 {
+	  margin-top: 0;
+  }
