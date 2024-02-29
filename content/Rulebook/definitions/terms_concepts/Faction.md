@@ -1,0 +1,2 @@
+Models have a Faction Icon to denote which of the many warring factions from the Jwar Isles they belong to.
+If a rule references a Faction, it refers to the Faction Icon printed on the front of the model’s card.

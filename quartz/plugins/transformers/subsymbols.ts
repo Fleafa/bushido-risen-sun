@@ -1,5 +1,6 @@
 import { QuartzTransformerPlugin } from "../types"
 import { findAndReplace } from "mdast-util-find-and-replace"
+import { visit } from "unist-util-visit"
 
 export const TextTransforms: QuartzTransformerPlugin = () => {
 	return {
@@ -8,17 +9,17 @@ export const TextTransforms: QuartzTransformerPlugin = () => {
 		return [() => {
 		  return (tree, file) => {
 			// replace _text_ with the italics version
-			findAndReplace(tree, [/_(.+)_/, 'poop'])
-   
-		   // remove all links (replace with just the link content)
-		   // match by 'type' field on an mdast node
-		   // https://github.com/syntax-tree/mdast#link in this example
-		/*	visit(tree, "link", (link: Link) => {
+			findAndReplace(tree, /_(.+)_/, (_value: string, ...capture: string[]) => {
+			  // inner is the text inside of the () of the regex
+			  const [inner] = capture
+			  // return an mdast node
+			  // https://github.com/syntax-tree/mdast
 			  return {
-				type: "paragraph"
-				children: [{ type: 'text', value: link.title }]
+				type: "emphasis",
+				children: [{ type: 'text', value: inner }]
 			  }
-			}) */
+			})
+
 		  }
 		}]
 	  }
