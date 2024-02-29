@@ -6,16 +6,16 @@ Models can move around the board in a number of ways depending on the action cho
 
 If a model would be moved past the edge of the game area, then it stops when its base touches the edge of the board. A model cannot be Placed with any part of its base off the board edge.
 
-# Move
+![[Move]]
 
-# Walk
+![[Walk]]
 
-# Run
+![[Run]]
 
-# Charge
+![[Charge]]
 
-# Place
+![[Place]]
 
 
-| [[Game Setup Turn\|Game Setup & Turn]] | [[Actions]] |
-| -------------------------------------- | ----------- |
+| [[Game Setup Turn\|Game Setup & Turn]] <<< |     | >>> [[Actions]] |
+| ------------------------------------------ | --- | --------------- |

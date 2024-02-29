@@ -60,7 +60,7 @@ title: Terms & Concepts
 
 ![[Owner]]
 
-![[Place]]
+![[Rulebook/definitions/terms_concepts/Place]]
 
 ![[Replace]]
 
@@ -90,3 +90,6 @@ title: Terms & Concepts
 
 ![[Zone of Control]]
 
+
+|     |     | >>> [[Cards]] |
+| --- | --- | ------------- |

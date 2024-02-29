@@ -2,5 +2,5 @@ Keii
 Seikyu
 Idols
 
-| [[Scenario Rules]] |     |
-| ------------------ | --- |
+| [[Scenario Rules]] <<< |     |     |
+| ---------------------- | --- | --- |

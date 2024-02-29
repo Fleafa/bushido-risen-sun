@@ -43,5 +43,5 @@ If the final result would be higher than 12, treat it as 12.
 | ***11***   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  |
 | ***12***   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  |
 
-| [[Melee Exchanges]] | [[Special Abilities]] |
-| ------------------- | --------------------- |
+| [[Melee Exchanges]] <<< |     | >>> [[Special Abilities]] |
+| ----------------------- | --- | ------------------------- |

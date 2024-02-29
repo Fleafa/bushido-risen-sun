@@ -51,5 +51,5 @@ Each game Turn is divided into three Phases: the Starting Phase, the Main Phase 
    If either player has no models left in play, calculate Scenario Points and Victory Points, and then determine the final score. Once this is done, the game ends.
 5.	Discard any unspent Pass Tokens.
 
-| [[Warband Composition]] | [[Movement Placing\|Movement & Placing]] |
-| ----------------------- | ---------------------------------------- |
+| [[Warband Composition]] <<< |     | >>> [[Movement Placing\|Movement & Placing]] |
+| --------------------------- | --- | -------------------------------------------- |

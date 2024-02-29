@@ -16,5 +16,5 @@
 - [[Spirit Block]]
 - [[Stunned]]
 
-| [[Special Abilities]] | [[Ki Feats]] |
-| --------------------- | ------------ |
+| [[Special Abilities]] <<< |     | >>> [[Ki Feats]] |
+| ------------------------- | --- | ---------------- |
