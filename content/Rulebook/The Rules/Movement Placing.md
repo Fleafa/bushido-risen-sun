@@ -15,3 +15,7 @@ If a model would be moved past the edge of the game area, then it stops when its
 # Charge
 
 # Place
+
+
+| [[Game Setup Turn\|Game Setup & Turn]] | [[Actions]] |
+| -------------------------------------- | ----------- |

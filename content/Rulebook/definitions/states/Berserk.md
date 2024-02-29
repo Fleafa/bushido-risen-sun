@@ -1,8 +1,8 @@
 ---
 revision: "1"
 ---
-While a model has a Berserk Marker, it gains the Aggressive trait.
-When a model gains a Berserk Marker, it gains an Impetuous Marker.
+While a model has a Berserk Marker, it gains the [[Aggressive]] trait.
+When a model gains a Berserk Marker, it gains an [[Rulebook/definitions/states/Impetuous|Impetuous]] State Marker.
 
 When a Berserk model activates check the following steps in order until one applies:
 1. If in range, this model must select the nearest valid Enemy model and declare a Melee Action.

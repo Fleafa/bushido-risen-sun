@@ -8,10 +8,13 @@
 - [[Frightened]]
 - [[Held]]
 - [[Immobilised]]
-- [Impetuous](Rulebook/states/Impetuous)
+- [Impetuous](Rulebook/definitions/states/Impetuous.md)
 - [[On Fire]]
 - [[Poisoned]]
 - [[Prone]]
 - [[Reloading]]
 - [[Spirit Block]]
 - [[Stunned]]
+
+| [[Special Abilities]] | [[Ki Feats]] |
+| --------------------- | ------------ |

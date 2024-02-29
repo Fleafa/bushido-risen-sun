@@ -4,7 +4,7 @@ title: Game Setup & Turn
 # Game Setup
 Before starting the first Turn, players need to set up the game using the following
 steps:
-1. First, each player should create a Warband. See Warband Composition (p.21).
+1. First, each player should create a Warband. See Warband Composition (p.21). ^e5705c
 2. Then either agree on or randomly decide, a Scenario to play. See Scenarios (p.75).
 3. Players deploy/nominate any Scenario Objectives as instructed by the Scenario.
 4. Players deploy Terrain and then select Deployment Zones. See Terrain (p.72). When deploying Terrain elements, follow these three steps:
@@ -50,3 +50,6 @@ Each game Turn is divided into three Phases: the Starting Phase, the Main Phase 
    If this is the final Turn, or if all three available Victory Points have been scored, the game ends (games can only end in the End Phase).
    If either player has no models left in play, calculate Scenario Points and Victory Points, and then determine the final score. Once this is done, the game ends.
 5.	Discard any unspent Pass Tokens.
+
+| [[Warband Composition]] | [[Movement Placing\|Movement & Placing]] |
+| ----------------------- | ---------------------------------------- |
