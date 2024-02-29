@@ -1,27 +1,26 @@
 import { QuartzTransformerPlugin } from "../types"
 import { findAndReplace } from "mdast-util-find-and-replace"
-import {fromMarkdown} from 'mdast-util-from-markdown'
-import {visit} from 'unist-util-visit'
 
-export const SubSymbols: QuartzTransformerPlugin = () => {
+export const TextTransforms: QuartzTransformerPlugin = () => {
 	return {
-		name: "SubSymbols",
-		markdownPlugins() {
-			return [() => {
-				return (tree, file) => {
-					// replace _text_ with the italics version
-					findAndReplace(tree, /==(NoBtB)==_/, (_value: string, ...capture: string[]) => {
-						// inner is the text inside of the () of the regex
-						const [inner] = capture
-						// return an mdast node
-						// https://github.com/syntax-tree/mdast
-						return {
-							type: "image",
-							url: "images/NoBtB.png"
-						}
-					})
-   				}
-			}]
-		}
+	  name: "TextTransforms",
+	  markdownPlugins() {
+		return [() => {
+		  return (tree, file) => {
+			// replace _text_ with the italics version
+			findAndReplace(tree, [/_(.+)_/, 'poop'])
+   
+		   // remove all links (replace with just the link content)
+		   // match by 'type' field on an mdast node
+		   // https://github.com/syntax-tree/mdast#link in this example
+		/*	visit(tree, "link", (link: Link) => {
+			  return {
+				type: "paragraph"
+				children: [{ type: 'text', value: link.title }]
+			  }
+			}) */
+		  }
+		}]
+	  }
 	}
-}
+  }
