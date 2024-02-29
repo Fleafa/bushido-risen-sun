@@ -1,0 +1,2 @@
+A model is Damaged or takes Damage when it suffers wounds or its wound boxes are marked.
+Model A deals or causes damage when a model has wound boxes marked due to an effect on model A or an action taken by model A.

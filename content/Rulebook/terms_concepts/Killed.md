@@ -1,0 +1,1 @@
+When a model has 0 wounds remaining on its Wound Track it is Killed, remove the model from the table. See Wound Track (p.14).
