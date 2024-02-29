@@ -1,3 +1,12 @@
-@use "./base.scss";
+blockquote {
+	margin: 0 0 10px 0;
+	padding-left: 0;
+	padding: 10px;
+	border: 1px solid orangered;
+  }
 
-// put your custom CSS here!
+blockquote.h1 {
+	margin-top: 0;
+	margin-bottom: .51rem;
+	font-size: 1.4rem;
+}
