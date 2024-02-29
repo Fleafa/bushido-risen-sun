@@ -74,6 +74,7 @@
     "remark-frontmatter": "^5.0.0",
     "remark-gfm": "^4.0.0",
     "remark-math": "^6.0.0",
+    "remark-mentions": "^1.1.0",
     "remark-parse": "^11.0.0",
     "remark-rehype": "^11.1.0",
     "remark-smartypants": "^2.0.0",

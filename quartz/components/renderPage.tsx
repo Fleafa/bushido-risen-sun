@@ -90,7 +90,7 @@ export function renderPage(
             }
 
             node.children = [
-              normalizeHastElement(blockNode, slug, transcludeTarget),
+              normalizeHastElement(blockNode, slug, transcludeTarget),/*
               {
                 type: "element",
                 tagName: "a",
@@ -98,7 +98,7 @@ export function renderPage(
                 children: [
                   { type: "text", value: i18n(cfg.locale).components.transcludes.linkToOriginal },
                 ],
-              },
+              },*/
             ]
           }
         } else if (blockRef?.startsWith("#") && page.htmlAst) {
@@ -127,7 +127,7 @@ export function renderPage(
           node.children = [
             ...(page.htmlAst.children.slice(startIdx, endIdx) as ElementContent[]).map((child) =>
               normalizeHastElement(child as Element, slug, transcludeTarget),
-            ),
+            ),/*
             {
               type: "element",
               tagName: "a",
@@ -135,29 +135,36 @@ export function renderPage(
               children: [
                 { type: "text", value: i18n(cfg.locale).components.transcludes.linkToOriginal },
               ],
-            },
+            },*/
           ]
         } else if (page.htmlAst) {
           // page transclude
           node.children = [
             {
               type: "element",
-              tagName: "h3",
-              properties: {},
+              tagName: "h2",
+              properties: { },
               children: [
                 {
-                  type: "text",
-                  value:
-                    page.frontmatter?.title ??
-                    i18n(cfg.locale).components.transcludes.transcludeOf({
-                      targetSlug: page.slug!,
-                    }),
+                  type: "element",
+                  tagName: "a",
+                  properties: { href: inner.properties?.href, class: ["internal", "transclude-src"] },
+                  children: [
+                    {
+                      type: "text",
+                      value:
+                        page.frontmatter?.title ??
+                        i18n(cfg.locale).components.transcludes.transcludeOf({
+                          targetSlug: page.slug!,
+                        }),
+                    },
+                  ],
                 },
               ],
             },
             ...(page.htmlAst.children as ElementContent[]).map((child) =>
               normalizeHastElement(child as Element, slug, transcludeTarget),
-            ),
+            ),/*
             {
               type: "element",
               tagName: "a",
@@ -165,7 +172,7 @@ export function renderPage(
               children: [
                 { type: "text", value: i18n(cfg.locale).components.transcludes.linkToOriginal },
               ],
-            },
+            },*/
           ]
         }
       }
