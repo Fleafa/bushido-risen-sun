@@ -4,7 +4,7 @@ If a model cannot legally declare any actions (due to [[States]], [[Traits]] or 
 
 Models in BtB with an Enemy model may not declare Actions or [[Ki Feats]] with the ==noBtB== icon.
 
-If a model performs an action with the ==NoMove== icon then it may not perform a walk alongside the action. The [[Active Player]] chooses which model they are activating (the [[Activating Model]]) and what Simple or Complex action the model will take.
+If a model performs an action with the ==NoMove== icon then it may not perform a walk alongside the action. The [[Rulebook/definitions/terms_concepts 1/Active Player]] chooses which model they are activating (the [[Rulebook/definitions/terms_concepts 1/Activating Model]]) and what Simple or Complex action the model will take.
 
 Remember Exhausted models cannot be chosen to activate, but can still participate in Melee Exchanges if Targeted by a Charge or selected for a Melee action.
 

@@ -1,1 +1,1 @@
-A model’s owner is the player who initially recruited the model into their [[Warband]] or [summoned](Summoning) the model, ignoring any control markers or game [[Effects]].
+A model’s owner is the player who initially recruited the model into their [[Rulebook/definitions/terms_concepts/Warband]] or [summoned](Summoning) the model, ignoring any control markers or game [[Rulebook/definitions/terms_concepts/Effects]].

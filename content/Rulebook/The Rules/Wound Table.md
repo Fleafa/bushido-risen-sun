@@ -1,19 +1,19 @@
 The Success Level indicates which column of the Wound Table the player should consult.
 
 > [!NOTE] Success Level Modifiers
-[[Brutal]] & [[Vengeance]]
+[[Rulebook/definitions/traits 1/Brutal]] & [[Rulebook/definitions/traits 1/Vengeance]]
 
 The player then makes a Damage Roll using 2D6, adding together results along with any [positive](Damage%20Roll%20Modifiers.md#Positive%20Modifiers) or [negative](Damage%20Roll%20Modifiers.md#Negative%20Modifiers) modifiers, the result of which determines which row to use to find the number of wounds inflicted by the attack.
 
 >[!NOTE] Damage Roll Modifiers
->[[Assassin]], Weapon Strength, [[Pierce]], [[Strong]], [[Vengeance]], [[Armour]], [[Weak]]
+>[[Rulebook/definitions/traits 1/Assassin]], Weapon Strength, [[Rulebook/definitions/traits 1/Pierce]], [[Rulebook/definitions/traits 1/Strong]], [[Rulebook/definitions/traits 1/Vengeance]], [[Rulebook/definitions/traits 1/Armour]], [[Rulebook/definitions/traits 1/Weak]]
 
 1’s are not failures when making a Damage Roll.
 If the final result would be less than 2, treat it as 2.
 If the final result would be higher than 12, treat it as 12.
 
 >[!NOTE] Wound Result Modifiers
->[[Sharp]], [[Durable]], & [[Tough]]
+>[[Rulebook/definitions/traits 1/Sharp]], [[Rulebook/definitions/traits 1/Durable]], & [[Rulebook/definitions/traits 1/Tough]]
 
 | *2D6*    | 0   | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  |
 | -------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

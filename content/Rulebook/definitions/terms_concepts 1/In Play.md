@@ -1,0 +1,2 @@
+A model is in play when it is on the [[Rulebook/definitions/terms_concepts 1/Battlefield]] or [[Rulebook/definitions/terms_concepts 1/Elsewhere]].
+A model is not in play when not recruited into the [[Rulebook/definitions/terms_concepts 1/Warband]] and/or has been [[Rulebook/definitions/terms_concepts 1/Killed]] or removed from Play.

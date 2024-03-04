@@ -1,4 +1,4 @@
-When a model is Summoned to the game it is added to the [[Warband]] in addition to the models already recruited.
+When a model is Summoned to the game it is added to the [[Rulebook/definitions/terms_concepts 1/Warband]] in addition to the models already recruited.
 You do not need to pay the Rice Cost of a Summoned model.
 Some models have **Su** as their Rice Cost, these can only enter play by being Summoned.
 

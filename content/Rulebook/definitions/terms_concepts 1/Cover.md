@@ -1,0 +1,2 @@
+When Terrain partially blocks [LoS](Line of Sight) to a model, that model gains Cover.
+A model benefits from Cover from an [Enemy](Rulebook/definitions/terms_concepts%201/Enemy-Friendly.md) model if any straight line from the Enemy passes through an Obscuring or Blocking terrain element that is within 1” of the [target] model.

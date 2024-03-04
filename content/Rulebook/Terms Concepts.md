@@ -2,93 +2,93 @@
 title: Terms & Concepts
 ---
 
-![[Activating Model]]
+![[Rulebook/definitions/terms_concepts 1/Activating Model]]
 
-![[Active Player]]
+![[Rulebook/definitions/terms_concepts 1/Active Player]]
 
-![[Base-to-Base]]
+![[Rulebook/definitions/terms_concepts 1/Base-to-Base]]
 
-![[Battlefield]]
+![[Rulebook/definitions/terms_concepts 1/Battlefield]]
 
-![[Controller]]
+![[Rulebook/definitions/terms_concepts 1/Controller]]
 
-![[Counters]]
+![[Rulebook/definitions/terms_concepts 1/Counters]]
 
-![[Cover]]
+![[Rulebook/definitions/terms_concepts 1/Cover]]
 
-![[Damage]]
+![[Rulebook/definitions/terms_concepts 1/Damage]]
 
-![[Damage Roll]]
+![[Rulebook/definitions/terms_concepts 1/Damage Roll]]
 
-![[Deploy]]
+![[Rulebook/definitions/terms_concepts 1/Deploy]]
 
-![[Dice Rolls]]
+![[Rulebook/definitions/terms_concepts 1/Dice Rolls]]
 
-![[Effects]]
+![[Rulebook/definitions/terms_concepts 1/Effects]]
 
-![[Elsewhere]]
+![[Rulebook/definitions/terms_concepts 1/Elsewhere]]
 
-![[Enemy-Friendly]]
+![[Rulebook/definitions/terms_concepts 1/Enemy-Friendly]]
 
-![[Entering]]
+![[Rulebook/definitions/terms_concepts 1/Entering]]
 
-![[Exhausted]]
+![[Rulebook/definitions/terms_concepts 1/Exhausted]]
 
-![[Facing]]
+![[Rulebook/definitions/terms_concepts 1/Facing]]
 
-![[Faction]]
+![[Rulebook/definitions/terms_concepts 1/Faction]]
 
-![[Initiative]]
+![[Rulebook/definitions/terms_concepts 1/Initiative]]
 
-![[In Play]]
+![[Rulebook/definitions/terms_concepts 1/In Play]]
 
-![[Ki Boost]]
+![[Rulebook/definitions/terms_concepts 1/Ki Boost]]
 
-![[Killed]]
+![[Rulebook/definitions/terms_concepts 1/Killed]]
 
-![[Line of Sight]]
+![[Rulebook/definitions/terms_concepts 1/Line of Sight]]
 
-![[Markers]]
+![[Rulebook/definitions/terms_concepts 1/Markers]]
 
-![[Measuring Distances]]
+![[Rulebook/definitions/terms_concepts 1/Measuring Distances]]
 
-![[Modifiers]]
+![[Rulebook/definitions/terms_concepts 1/Modifiers]]
 
-![[Movement]]
+![[Rulebook/definitions/terms_concepts 1/Movement]]
 
 ![[Open-Hidden Information]]
 
-![[Owner]]
+![[Rulebook/definitions/terms_concepts 1/Owner]]
 
 ![[Rulebook/definitions/terms_concepts/Place]]
 
-![[Replace]]
+![[Rulebook/definitions/terms_concepts 1/Replace]]
 
-![[Select]]
+![[Rulebook/definitions/terms_concepts 1/Select]]
 
-![[Size]]
+![[Rulebook/definitions/terms_concepts 1/Size]]
 
-![[Summon]]
+![[Rulebook/definitions/terms_concepts 1/Summon]]
 
-![[Supporting Dice]]
+![[Rulebook/definitions/terms_concepts 1/Supporting Dice]]
 
-![[Surprised]]
+![[Rulebook/definitions/terms_concepts 1/Surprised]]
 
-![[Target]]
+![[Rulebook/definitions/terms_concepts 1/Target]]
 
-![[Test]]
+![[Rulebook/definitions/terms_concepts 1/Test]]
 
-![[Timing]]
+![[Rulebook/definitions/terms_concepts 1/Timing]]
 
-![[Trap]]
+![[Rulebook/definitions/terms_concepts 1/Trap]]
 
-![[Tokens]]
+![[Rulebook/definitions/terms_concepts 1/Tokens]]
 
-![[Virtue Tokens]]
+![[Rulebook/definitions/terms_concepts 1/Virtue Tokens]]
 
-![[Warband]]
+![[Rulebook/definitions/terms_concepts 1/Warband]]
 
-![[Zone of Control]]
+![[Rulebook/definitions/terms_concepts 1/Zone of Control]]
 
 
 |     |     | >>> [[Cards]] |

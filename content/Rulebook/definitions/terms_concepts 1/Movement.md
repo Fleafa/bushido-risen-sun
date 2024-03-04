@@ -5,5 +5,5 @@ Similarly, a model which must move Away cannot decrease its distance from that e
 
 If it must move Directly Away from a game element, then it can only move in a straight line drawn from the centre of its base away from the centre of the game element.
 
-An [[Activating Model]] can only enter [BtB](Base-to-Base.md) with one [Enemy](Enemy-Friendly.md) model per activation.
+An [[Rulebook/definitions/terms_concepts 1/Activating Model]] can only enter [BtB](Rulebook/definitions/terms_concepts%201/Base-to-Base.md) with one [Enemy](Rulebook/definitions/terms_concepts%201/Enemy-Friendly.md) model per activation.
 Also, see Movement (p.26).

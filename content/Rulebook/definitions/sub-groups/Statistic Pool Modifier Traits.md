@@ -1,8 +1,8 @@
 ---
 title: Statistic / Pool Modifier Traits
 ---
-![[Dread]]
+![[Rulebook/definitions/traits 1/Dread]]
 
-![[Spirit]]
+![[Rulebook/definitions/traits 1/Spirit]]
 
-![[Tactician]]
+![[Rulebook/definitions/traits 1/Tactician]]

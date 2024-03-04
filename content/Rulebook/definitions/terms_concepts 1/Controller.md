@@ -1,0 +1,1 @@
+The player with whom a model is currently [Friendly](Rulebook/definitions/terms_concepts%201/Enemy-Friendly.md).

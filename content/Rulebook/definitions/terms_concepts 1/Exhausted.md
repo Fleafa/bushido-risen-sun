@@ -1,0 +1,1 @@
+A model with no Activation [[Rulebook/definitions/terms_concepts 1/Counters]] is considered Exhausted.

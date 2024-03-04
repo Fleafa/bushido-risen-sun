@@ -1,7 +1,7 @@
 ---
 revision: "1"
 ---
-While a model has a Berserk Marker, it gains the [[Aggressive]] trait.
+While a model has a Berserk Marker, it gains the [[Rulebook/definitions/traits 1/Aggressive]] trait.
 When a model gains a Berserk Marker, it gains an [[Rulebook/definitions/states/Impetuous|Impetuous]] State Marker.
 
 When a Berserk model activates check the following steps in order until one applies:
