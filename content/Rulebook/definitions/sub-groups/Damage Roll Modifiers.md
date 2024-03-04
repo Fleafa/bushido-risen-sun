@@ -1,16 +1,16 @@
 # Positive Modifiers
 
-![[Rulebook/definitions/traits 1/Assassin]]
+![[Rulebook/definitions/traits/Assassin]]
 
 Weapon Strength
 
-![[Rulebook/definitions/traits 1/Pierce]]
+![[Rulebook/definitions/traits/Pierce]]
 
-![[Rulebook/definitions/traits 1/Strong]]
+![[Rulebook/definitions/traits/Strong]]
 
-![[Rulebook/definitions/traits 1/Vengeance]]
+![[Rulebook/definitions/traits/Vengeance]]
 # Negative Modifiers
 
-![[Rulebook/definitions/traits 1/Armour]]
+![[Rulebook/definitions/traits/Armour]]
 
-![[Rulebook/definitions/traits 1/Weak]]
+![[Rulebook/definitions/traits/Weak]]

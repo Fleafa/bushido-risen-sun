@@ -1,7 +1,7 @@
-![[Rulebook/definitions/traits 1/Impenetrable Defence]]
+![[Rulebook/definitions/traits/Impenetrable Defence]]
 
-![[Rulebook/definitions/traits 1/Mettle]]
+![[Rulebook/definitions/traits/Mettle]]
 
-![[Rulebook/definitions/traits 1/Unblockable]]
+![[Rulebook/definitions/traits/Unblockable]]
 
-![[Rulebook/definitions/traits 1/Overwhelm]]
+![[Rulebook/definitions/traits/Overwhelm]]

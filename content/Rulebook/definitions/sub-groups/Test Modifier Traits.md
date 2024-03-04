@@ -1,13 +1,13 @@
-![[Rulebook/definitions/traits 1/Resistance]]
+![[Rulebook/definitions/traits/Resistance]]
 
-![[Rulebook/definitions/traits 1/Parry]]
+![[Rulebook/definitions/traits/Parry]]
 
-![[Rulebook/definitions/traits 1/Ranged Defence]]
+![[Rulebook/definitions/traits/Ranged Defence]]
 
-![[Rulebook/definitions/traits 1/Courage]]
+![[Rulebook/definitions/traits/Courage]]
 
-![[Rulebook/definitions/traits 1/Willpower]]
+![[Rulebook/definitions/traits/Willpower]]
 
-![[Rulebook/definitions/traits 1/Brutal]]
+![[Rulebook/definitions/traits/Brutal]]
 
-![[Rulebook/definitions/traits 1/Leadership]]
+![[Rulebook/definitions/traits/Leadership]]
