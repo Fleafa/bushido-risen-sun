@@ -9,8 +9,7 @@ const defaultOptions: Options = {
 	enableSubSymbols: true,
 }
 
-const findNoBtB = new RegExp(/\=\=[nN]oBtB\=\=/, "g")
-const findNoBtBLink = new RegExp(/\=\=\[\[[nN]oBtB\]\]\=\=/, "g")
+const findNoBtB = new RegExp(/[(\=\=)(\[\[)][nN]oBtB\=\=/, "g")
 const findNoMove = new RegExp(/\=\=[nN]oMove\=\=/, "g")
 const findFeatActive = new RegExp(/\=\=[aA]ctive\=\=/, "g")
 const findFeatInstant = new RegExp(/\=\=[iI]nstant\=\=/, "g")
@@ -32,9 +31,9 @@ export const SubSymbols: QuartzTransformerPlugin<Partial<Options> | undefined> =
 		textTransform(_ctx, src) {
 			if (opts.enableSubSymbols) {
 				src = src.toString()
-				src = src.replaceAll(findNoBtBLink, (value, ...capture) => {
+				src = src.replaceAll(findNoBtB, (value, ...capture) => {
 				//	const [src] = capture
-					return '<a href="../Rulebook/definitions/feats/noBtB"><img id="nobtb" title="no base to base" alt="no base to base" src="../images/nobtb.png"><a>'
+					return '<a href="../Rulebook/definitions/feats/noBtB"><img id="nobtb" title="no base to base" alt="no base to base" src="../images/nobtb.png"></a>'
 				})
 				src = src.replaceAll(findNoMove, (value, ...capture) => {
 				//	const [src] = capture
