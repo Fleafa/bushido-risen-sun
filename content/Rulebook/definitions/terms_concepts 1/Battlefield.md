@@ -1,2 +1,0 @@
-A game of Bushido takes place on a 2x2’ area we call the Battlefield.
-Models on the Battlefield or designated as being [[Rulebook/definitions/terms_concepts 1/Elsewhere]] are [[Rulebook/definitions/terms_concepts 1/In Play]].

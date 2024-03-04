@@ -1,1 +1,0 @@
-Sometimes Models are Placed on the table instead of moving around the table. See Movement (p.27).

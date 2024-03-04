@@ -1,1 +1,0 @@
-A Ki Boost is a special type of Ki Feat that increases statistics.
