@@ -1,27 +1,46 @@
 import { QuartzTransformerPlugin } from "../types"
-import { findAndReplace } from "mdast-util-find-and-replace"
-import { visit } from "unist-util-visit"
+import replace from 'stream-replace-string'
 
-export const TextTransforms: QuartzTransformerPlugin = () => {
+export interface Options {
+	enableSubSymbols: boolean
+}
+
+const defaultOptions: Options = {
+	enableSubSymbols: true,
+}
+
+const findNoBtB = new RegExp(/\=\=[nN]oBtB\=\=/, "g")
+const findNoMove = new RegExp(/\=\=[nN]oMove\=\=/, "g")
+const findFeatActive = new RegExp(/\=\=[aA]ctive\=\=/, "g")
+const findFeatInstant = new RegExp(/\=\=[iI]nstant\=\=/, "g")
+const findFeatSimple = new RegExp(/\=\=[sS]imple\=\=/, "g")
+const findFeatComplex = new RegExp(/\=\=[cC]omplex\=\=/, "g")
+const findFeatTarget = new RegExp(/\=\=[tT]arget\=\=/, "g")
+const findFeatAura = new RegExp(/\=\=[aA]ura\=\=/, "g")
+const findPulse = new RegExp(/\=\=[pP]ulse\=\=/, "g")
+const findPersonal = new RegExp(/\=\=[pP]ersonal\=\=/, "g")
+const findOpT = new RegExp(/\=\=OpT\=\=/, "g")
+const findOpG = new RegExp(/\=\=OpG\=\=/, "g")
+
+export const SubSymbols: QuartzTransformerPlugin<Partial<Options> | undefined> = (
+	userOpts, 
+) => {
+	const opts = { ...defaultOptions, ...userOpts}
 	return {
-	  name: "TextTransforms",
-	  markdownPlugins() {
-		return [() => {
-		  return (tree, file) => {
-			// replace _text_ with the italics version
-			findAndReplace(tree, /_(.+)_/, (_value: string, ...capture: string[]) => {
-			  // inner is the text inside of the () of the regex
-			  const [inner] = capture
-			  // return an mdast node
-			  // https://github.com/syntax-tree/mdast
-			  return {
-				type: "emphasis",
-				children: [{ type: 'text', value: inner }]
-			  }
-			})
-
-		  }
-		}]
-	  }
+		name: "SubSymbols",
+		textTransform(_ctx, src) {
+			if (opts.enableSubSymbols) {
+				src = src.toString()
+				src = src.replaceAll(findNoBtB, (value, ...capture) => {
+				//	const [src] = capture
+					return '<a href="../Rulebook/definitions/feats/noBtB"><img id="nobtb" title="no base to base" alt="no base to base" src="../images/nobtb.png"><a>'
+				})
+				src = src.replaceAll(findNoMove, (value, ...capture) => {
+				//	const [src] = capture
+					return '<img id="nobtb" title="no move" alt="no move" src="../images/nomove.png">'
+				})
+			}
+			return src
+		},
 	}
-  }
+}

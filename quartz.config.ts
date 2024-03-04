@@ -63,7 +63,7 @@ const config: QuartzConfig = {
         },
         keepBackground: false,
       }),
-      // Plugin.SubSymbols(),
+      Plugin.SubSymbols(),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
