@@ -9,8 +9,8 @@ const defaultOptions: Options = {
 	enableSubSymbols: true,
 }
 
-const findNoBtB = new RegExp(/[(\=\=)(\[\[)][nN]oBtB\=\=/, "g")
-const findNoMove = new RegExp(/\=\=[nN]oMove\=\=/, "g")
+const findNoBtB = new RegExp(/(?:(?:={2})|(?:\[{2}))[nN]oBtB(?:(?:={2})|(?:\]{2}))/, "g")
+const findNoMove = new RegExp(/(?:(?:={2})|(?:\[{2}))[nN]oMove(?:(?:={2})|(?:\]{2}))/, "g")
 const findFeatActive = new RegExp(/\=\=[aA]ctive\=\=/, "g")
 const findFeatInstant = new RegExp(/\=\=[iI]nstant\=\=/, "g")
 const findFeatSimple = new RegExp(/\=\=[sS]imple\=\=/, "g")
