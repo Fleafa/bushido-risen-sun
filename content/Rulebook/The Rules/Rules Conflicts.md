@@ -6,7 +6,7 @@ When two rules come into direct conflict, use the following order of precedence 
 2.	Rules that prevent something happening take priority over rules that force something to happen. If this does not resolve the conflict, then move on to step 3 below.
 3.	If effects happen at the same time, the active player chooses the order to resolve them.
 
-> [!NOTE] Example
+> [!example]
 > Kenko uses Slam Attack on Manu.
 > Manu has the Immovable Trait.
 > Slam Attack makes no reference to Immovable, & vice versa - so test 1 does not resolve this.

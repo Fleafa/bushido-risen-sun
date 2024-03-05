@@ -1,6 +1,6 @@
 Models in Bushido perform actions to affect the game. The actions a model can take depend on the number of Activation counters on that model and whether it’s in [[Rulebook/definitions/terms_concepts/Base-to-Base|BtB]] with an Enemy model.
 
-If a model cannot legally declare any actions (due to [[States]], [[Traits]] or other game effects) when chosen to activate the model immediately becomes exhausted.
+If a model cannot legally declare any actions (due to [[Model States]], [[Traits]] or other game effects) when chosen to activate the model immediately becomes exhausted.
 
 Models in BtB with an Enemy model may not declare Actions or [[Ki Feats]] with the [[noBtB]] icon.
 
@@ -18,11 +18,11 @@ If an effect says a model makes an Action, such as a Walk Action or other Standa
 A model with no Activation counters is Exhausted and cannot be chosen to activate. If a model has only one Activation counter, it cannot declare a complex action.
 
 
-> [!NOTE] Example
+> [!example]
 > Hanso uses his Command trait on 2 Yarimen. Both Yarimen declare a melee action.
 > As Command specifies a Simple Action, the Yarimen lose an Activation Counter each.
 
-> [!NOTE] Example
+> [!example]
 > Hanso uses his “Move it!” Ki Feat on two Yarimen.
 > Both Yarimen make a Walk up to their Move Stat in inches, but this is not a Walk Action, so they do not lose an Activation Counter.
 

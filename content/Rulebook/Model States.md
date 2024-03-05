@@ -8,7 +8,7 @@
 - [[Rulebook/definitions/states/Frightened]]
 - [[Rulebook/definitions/states/Held]]
 - [[Rulebook/definitions/states/Immobilised]]
-- [Impetuous](Rulebook/definitions/states/Impetuous.md)
+- [[Rulebook/definitions/states/Impetuous]]
 - [[Rulebook/definitions/states/On Fire]]
 - [[Rulebook/definitions/states/Poisoned]]
 - [[Rulebook/definitions/states/Prone]]

@@ -64,7 +64,7 @@
 - [[Rulebook/definitions/traits/Immune]]
 - [[Rulebook/definitions/traits/Immovable]]
 - [[Rulebook/definitions/traits/Impenetrable Defence]]
-- [Impetuous](Rulebook/definitions/traits/Impetuous.md)
+- [[Rulebook/definitions/traits/Impetuous]]
 - [[Rulebook/definitions/traits/Indomitable]]
 - [[Rulebook/definitions/traits/Insignificant]]
 - [[Rulebook/definitions/traits/Intangible]]

@@ -5,8 +5,8 @@ The Rice Limit determines the size of the game and can be arbitrarily chosen .Wh
 
 A player’s Warband in Bushido is made up of several models, and any Special cards from the same Faction and may include Ronin that may be recruited by that Faction.
 
->[!NOTE]
->A Warband may not be of the Ronin Faction.
+> [!warning]
+> A Warband may not be of the Ronin Faction.
 
 The Rice Cost of your Warband must come to the total agreed upon with your Opponent.
 A Player can only recruit one of each card; this does not prohibit the Opponent from recruiting the card for their Warband.
@@ -22,10 +22,10 @@ From three Imperial Princesses expecting hospitality from the Tengu, to Sojobo l
  4. Ronin can be included in Ronin Theme Lists.
  5. It is permissible to make a list for a given faction that includes only Ronin models that work for that Faction, but when creating a Warband, you cannot choose Ronin as your Faction.
 
-> [!NOTE] Example
+> [!example]
 > A Prefecture list using the Blood of the Dragon theme can include Samurai but cannot include Golden Sentinel models as the theme does not include Ronin Samurai.
 
-> [!NOTE] Example
+> [!example]
 > It is possible to create a Warband entirely made of Ronin. First choose a faction (Prefecture, Ito, Silvermoon etc…) and choose Ronin available to that faction. It is not a “Ronin Faction” list as this is not permitted.
 
 | [[Rules Conflicts]] <<< |     | >>> [[Game Setup Turn\|Game Setup & Turn]] |

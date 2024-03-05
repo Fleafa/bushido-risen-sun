@@ -5,7 +5,7 @@ The unit of measure in Bushido is inches.
 - When measuring if a model or point is within a given range then precisely up to that range is considered within.
 - If a range is given as [BtB](Rulebook/definitions/terms_concepts/Base-to-Base.md), then the model is in range of itself.
 
-> [!NOTE] Example
+> [!example]
 >  If the edge of a model’s base is exactly 6” away from its Opponent’s base, it is considered to be within 6”.
 
 > [!NOTE]

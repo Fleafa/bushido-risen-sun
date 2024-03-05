@@ -34,7 +34,7 @@ Discuss the terrain with your opponent or have a good selection available so you
 We would recommend that before a game starts, each player highlights any terrain pieces where they consider the size classification may not be totally clear, in particular, whether a terrain piece might be either Tiny or Small, or Large or Huge, and discuss and agree on this with their opponent.
 Remember the rules are made to be definitive. A simple check with a gaming laser should solve all cover and LoS issues and while they may not always make sense, based on how the model looks from a “Model’s Eye View”, remember that the static model is representing a soldier who may be actively trying to hug terrain or keep a low profile.
 
->[!NOTE] Example Terrain Pieces
+>[!example] Terrain Pieces
 Pond.......................Difficult, Clear, Zero
 Paved Road..........Ideal, Clear, Zero
 Low Hedge..........Difficult, Blocking, Tiny
