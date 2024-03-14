@@ -4,7 +4,7 @@ title: Getting Ready
 For a game of Bushido, each player will need:
 
 - A copy of these rules.
-- Aset of Bushido miniatures and their cards.
+- A set of Bushido miniatures and their cards.
 - A tape measure or a measuring ‘Widget’.
 - At least ten six-sided (D6) dice in two different colours. Five in one colour, and five in another.
 - Several coins, chips, or dice to track a model’s Ki Tokens during play; some people like to use ten-sided dice for this.

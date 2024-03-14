@@ -1,0 +1,11 @@
+{
+	"BtB": {
+		"search": ["BtB"], // array of RegEx
+		"replace": "[[Base-to-Base|BtB]]" // RegEx
+	},
+
+	"Walk": {
+		"search": ["BtB"],
+		"replace": "[[Base-to-Base|BtB]]"
+	}
+}
