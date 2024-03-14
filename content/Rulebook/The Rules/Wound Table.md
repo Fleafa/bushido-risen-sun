@@ -51,5 +51,5 @@ If the final result would be higher than 12, treat it as 12.
 
 </span>
 
-| [[Melee Exchanges]] <<< |     | >>> [[Special Abilities]] |
+| [[Melee Exchange]] <<< |     | >>> [[Special Abilities]] |
 | ----------------------- | --- | ------------------------- |

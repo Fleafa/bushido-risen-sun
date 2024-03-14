@@ -1,3 +1,3 @@
-No effect on [[Rulebook/definitions/terms_concepts/Line of Sight|LoS]].
+No effect on [[LoS|LoS]].
 
 "revision": 0

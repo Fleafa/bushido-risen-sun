@@ -6,7 +6,7 @@ title: Terms & Concepts
 
 ![[Rulebook/definitions/terms_concepts/Active Player]]
 
-![[Rulebook/definitions/terms_concepts/Base-to-Base]]
+![[BtB]]
 
 ![[Rulebook/definitions/terms_concepts/Battlefield]]
 
@@ -46,7 +46,7 @@ title: Terms & Concepts
 
 ![[Rulebook/definitions/terms_concepts/Killed]]
 
-![[Rulebook/definitions/terms_concepts/Line of Sight]]
+![[LoS]]
 
 ![[Rulebook/definitions/terms_concepts/Markers]]
 
@@ -88,7 +88,7 @@ title: Terms & Concepts
 
 ![[Rulebook/definitions/terms_concepts/Warband]]
 
-![[Rulebook/definitions/terms_concepts/Zone of Control]]
+![[ZoC]]
 
 
 |     |     | >>> [[Cards]] |

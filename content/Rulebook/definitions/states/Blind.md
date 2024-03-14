@@ -1,5 +1,7 @@
-If a model has a Blind Marker it cannot draw [[Rulebook/definitions/terms_concepts/Line of Sight|LoS]] outside of [[Rulebook/definitions/terms_concepts/Base-to-Base|BtB]] and suffers a -1 Melee Pool modifier during [[Melee Exchanges]].
-Blind models may not declare [[Movement Placing#Run|Run]] or [[Movement Placing#Charge|Charge]] Actions. During the [[Game Setup Turn#End Phase|End Phase]] remove all Blind markers from each model with any Blind Markers. Models with [[Rulebook/definitions/traits/Sixth Sense]] automatically have [[Rulebook/definitions/traits/Immune]] [Blind].
+If a model has a Blind Marker it cannot draw [[LoS|LoS]] outside of [[BtB|BtB]] and suffers a -1 Melee Pool modifier during [[Melee Exchange]].
 
-"revision": 0,
-"status": "current"
+Blind models may not declare [[Movement Placing#Run|Run]] or [[Movement Placing#Charge|Charge]] actions.
+
+During the [[Game Setup Turn#End Phase|End Phase]] remove all Blind markers from each model with any Blind Markers.
+
+Models with [[Sixth Sense]] automatically have [[Immune]] [Blind].

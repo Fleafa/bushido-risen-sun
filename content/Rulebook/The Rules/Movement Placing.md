@@ -12,7 +12,7 @@ If a model would be moved past the edge of the game area, then it stops when its
 
 ![[Run]]
 
-![[Charge]]
+![[Rulebook/definitions/movement/Charge]]
 
 ![[Rulebook/definitions/terms_concepts/Place]]
 

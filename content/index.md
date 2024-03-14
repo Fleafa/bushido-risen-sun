@@ -12,7 +12,7 @@ title: Bushido Rules Resource
 		- [[Actions]]
 		- [[Tests]]
 		- [[Ranged Attacks]]
-		- [[Melee Exchanges]]
+		- [[Melee Exchange]]
 		- [[Wound Table]]
 		- [[Special Abilities]]
 		- [[Model States]]

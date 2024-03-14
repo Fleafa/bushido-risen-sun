@@ -1,6 +1,4 @@
-If a model has any Stunned Markers, it suffers a -1 Melee Pool and a -1 Ranged Pool modifiers. During the End Phase remove one Stunned marker from each model with a Stunned marker. An affected model may take a Wait Action to remove all Stunned Markers.
+If a model has any Stunned Markers, it suffers a -1 Melee Pool and a -1 Ranged Pool modifiers.
+During the [[Game Setup Turn#End Phase|End Phase]] remove one Stunned marker from each model with a Stunned marker.
 
-"references": ["markers", "modifier", "phase-end", "action-wait"],
-"rulebook": 53,
-"rulebookr1": 55,
-"revision": 0,
+An affected model may take a [[Wait action]] to remove all Stunned Markers.

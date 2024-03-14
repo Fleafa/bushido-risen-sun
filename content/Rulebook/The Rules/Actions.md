@@ -1,4 +1,4 @@
-Models in Bushido perform actions to affect the game. The actions a model can take depend on the number of Activation counters on that model and whether it’s in [[Rulebook/definitions/terms_concepts/Base-to-Base|BtB]] with an Enemy model.
+Models in Bushido perform actions to affect the game. The actions a model can take depend on the number of Activation counters on that model and whether it’s in [[BtB|BtB]] with an Enemy model.
 
 If a model cannot legally declare any actions (due to [[Model States]], [[Traits]] or other game effects) when chosen to activate the model immediately becomes exhausted.
 

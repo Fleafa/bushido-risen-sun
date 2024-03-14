@@ -1,4 +1,1 @@
-This model’s LoS extends 360 degrees around its base.
-
-"concept-los"
-"revision": 0
+This model’s [[LoS|LoS]] extends 360 degrees around its base.

@@ -3,7 +3,7 @@ The unit of measure in Bushido is inches.
 - [Targeting](Rulebook/definitions/terms_concepts/Target.md) distances are measured from the nearest base edge of a model to the nearest base edge of the Target.
 - Measurements, whether distances, [LoS](Line of Sight), or other measurements, may be taken at any time for any reason by either player.
 - When measuring if a model or point is within a given range then precisely up to that range is considered within.
-- If a range is given as [BtB](Rulebook/definitions/terms_concepts/Base-to-Base.md), then the model is in range of itself.
+- If a range is given as [BtB](BtB.md), then the model is in range of itself.
 
 > [!example]
 >  If the edge of a model’s base is exactly 6” away from its Opponent’s base, it is considered to be within 6”.

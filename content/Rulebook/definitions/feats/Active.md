@@ -1,2 +1,2 @@
-![[active.png]] Can only be used at any time when this model’s Controller is the [[Active Player]], even if it is not the [[Activating model]] except during [[Melee Exchanges]] or [[Ranged Attacks]], where the timing is restricted.
+![[active.png]] Can only be used at any time when this model’s Controller is the [[Active Player]], even if it is not the [[Activating model]] except during [[Melee Exchange]] or [[Ranged Attacks]], where the timing is restricted.
 Because this is not an action, it can be combined with a Simple or Complex action if the model is the Activating model or can be used when another model is activating.

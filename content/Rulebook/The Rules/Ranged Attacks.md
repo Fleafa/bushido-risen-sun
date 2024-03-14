@@ -93,5 +93,5 @@ If the test is successful proceed as normal.
 If the test is a failure the Target of the Attack is changed to the nearest Friendly model in BtB with the original Target.
 The Ranged Attack continues with the new Target.
 
-| [[Tests]] <<< |     | >>> [[Melee Exchanges]] |
+| [[Tests]] <<< |     | >>> [[Melee Exchange]] |
 | ------------- | --- | ----------------------- |
