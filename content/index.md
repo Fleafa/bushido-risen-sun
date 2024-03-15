@@ -4,7 +4,7 @@ title: Bushido Rules Resource
 - Rulebook
 	- [[Game Overview]]
 	- [[Terms Concepts]]
-	- Cards
+	- [[Cards]]
 	- The Rules
 		- [[Warband Composition]]
 		- [[Game Setup Turn|Game Setup & Turn]]
