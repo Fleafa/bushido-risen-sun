@@ -1,1 +1,0 @@
-When making a [Test](Tests), up to 2 Dice may be chosen as supporting dice, these each add +1 to the value of the highest [dice roll](Dice Rolls) to get the final result.

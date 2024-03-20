@@ -1,0 +1,3 @@
+During any [move](Movement.md), the first time a model comes into contact with an area of the [[Battlefield]], terrain element, or named effect it is considered to Enter that area, terrain, or [effect](Effects.md).
+If an effect is over multiple areas or terrain elements (e.g. Void Rifts) the model only Enters the effect the first time it contacts the effect.
+If a model is [Placed](Rulebook/definitions/terms/Place.md) into an area of the Battlefield, terrain element, or named effect it is considered to Enter that area, terrain or effect.

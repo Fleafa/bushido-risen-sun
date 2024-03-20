@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"50f06109a830cb60","x":-1320,"y":-40,"width":1320,"height":1387,"type":"group","label":"Simple"},
+		{"id":"5668d20c7e4023ce","x":240,"y":-40,"width":902,"height":926,"type":"group","label":"Complex"},
+		{"id":"df79480852a75895","x":-180,"y":-560,"width":400,"height":400,"type":"file","file":"Rulebook/Actions.md"},
+		{"id":"ea53f4814339f1f4","x":-1300,"y":20,"width":400,"height":400,"type":"file","file":"Rulebook/definitions/actions/Walk Action.md"},
+		{"id":"c5708d842dc8a61b","x":-1300,"y":467,"width":400,"height":400,"type":"file","file":"Rulebook/definitions/actions/Run Action.md"},
+		{"id":"f9a1cceb5de00551","x":-1300,"y":927,"width":400,"height":400,"type":"file","file":"Rulebook/definitions/actions/Stand Up Action.md"},
+		{"id":"b9e5947dde1f5bbc","x":-420,"y":467,"width":400,"height":400,"type":"file","file":"Rulebook/definitions/actions/Wait Action.md"},
+		{"id":"5b414b5ce3f07aa8","x":-860,"y":20,"width":400,"height":400,"type":"file","file":"Rulebook/definitions/actions/Melee Action.md"},
+		{"id":"a200fa504a832256","x":-860,"y":467,"width":400,"height":400,"type":"file","file":"Rulebook/definitions/actions/Ranged Attack Action.md"},
+		{"id":"8d0f54fad7886659","x":-860,"y":927,"width":400,"height":400,"type":"file","file":"Rulebook/definitions/actions/Simple Ki Feat Action.md"},
+		{"id":"544f6b2ac311fcca","x":-420,"y":20,"width":400,"height":400,"type":"file","file":"Rulebook/definitions/actions/Disengage Action.md"},
+		{"id":"c2cfc5a7491e46f8","x":-420,"y":927,"width":400,"height":400,"type":"file","file":"Rulebook/definitions/actions/Simple Scenario Action.md"},
+		{"id":"4871bf5c0bf09f42","x":260,"y":20,"width":400,"height":400,"type":"file","file":"Rulebook/definitions/actions/Charge Action.md"},
+		{"id":"9bcf88be68b7244e","x":260,"y":466,"width":400,"height":400,"type":"file","file":"Rulebook/definitions/actions/Complex Ki Feat Action.md"},
+		{"id":"4073cf0034c2cfc7","x":722,"y":20,"width":400,"height":400,"type":"file","file":"Rulebook/definitions/actions/Focus Action.md"},
+		{"id":"e5cbe4e9107dd7f8","x":722,"y":466,"width":400,"height":400,"type":"file","file":"Rulebook/definitions/actions/Complex Scenario Action.md"}
+	],
+	"edges":[
+		{"id":"e569b443c3216784","fromNode":"df79480852a75895","fromSide":"left","toNode":"50f06109a830cb60","toSide":"top"},
+		{"id":"2720aca4a8ee0552","fromNode":"df79480852a75895","fromSide":"right","toNode":"5668d20c7e4023ce","toSide":"top"}
+	]
+}

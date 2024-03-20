@@ -1,1 +1,1 @@
-This model may not perform Scenario [[actions]].
+This model may not perform Scenario [[Actions]].
