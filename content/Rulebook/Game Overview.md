@@ -5,15 +5,5 @@ Bushido is an exciting skirmish game designed for two players using exquisite 32
 They say that the monks record their histories in scrolls and chanting, while the samurai write their legacy in blood, but in an intense game of Bushido, how you write your account is up to you!
 You’ll take turns moving your models around the battlefield, then rolling dice to see if your well-planned strategies succeed or fail. Bushido is not only about intense melee between razor-sharp swords and fists, but completing intricate Scenarios to score objectives and win the game. Strategy and savagery go hand-in-hand in a game of **Bushido: Risen Sun**.
 
-# Getting Ready
-For a game of Bushido, each player will need:
-
-- A copy of these rules.
-- A set of Bushido miniatures and their cards.
-- A tape measure or a measuring ‘Widget’.
-- At least ten six-sided (D6) dice in two different colours. Five in one colour, and five in another.
-- Several coins, chips, or dice to track a model’s Ki Tokens during play; some people like to use ten-sided dice for this.
-- To protect your cards use plastic card sleeves and a ‘dry wipe’ marker pen.
-- An area to play on that is at least 2 foot by 2 foot. Usually, you’ll need a bit more space than this to accommodate dice, cards, snacks, drinks, etc.
-- Several bits of terrain. These can vary in size, but no single piece should be larger than 9” x 9”.
-- Optionally: Special Attack / Defence Cards for reference and a Bushido Token Set to help track ‘in-game’ states and effects.
+|     |     | >>> [[Getting Ready]] |
+| --- | --- | --------------------- |

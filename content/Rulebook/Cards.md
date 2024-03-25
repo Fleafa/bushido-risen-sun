@@ -4,12 +4,10 @@ Profile cards contain all the rules specific to all models represented by that c
 The name of the model(s). If this card represents a unique individual character rather than one or more generic profiles, this has a special border, and the Rice Cost is coloured Gold.
 ## Elemental Icons
 Some models are aspected towards one or more of the six elements:
-	- Earth
-	- Water
-	- Fire
-	- Metal
-	- Air
-	- Void
+
+| ![[element-earth.png]] Earth | ![[element-water.png]] Water | ![[element-fire.png]] Fire |
+| ---------------------------- | ---------------------------- | -------------------------- |
+| ![[element-metal.png]] Metal | ![[element-wind.png]] Air    | ![[element-void.png]] Void |
 ## Base Size & Max Symbol
 If a profile has multiple base size symbols any of the available options are permitted.
 ## Type
@@ -39,9 +37,13 @@ The Ki statistic is actually 2 statistics represented by 2 numbers written X/Y. 
 ## Wounds Track
 The number of wounds a model can suffer. When a model suffers wounds an equal amount are marked from its Wound Track. When a model is reduced to 0 wounds remaining on its Wound Track it is Killed; remove the model from the table. When a model Heals wounds, it recovers marked wounds from its Wound Track. A model cannot Heal more than it has marked wounds. Some cards have multiple Wound Tracks to use for multiple identical models. The number of Wound Tracks is the limit to how many of these models you may recruit in a Warband. Some Profile Cards, such as Kami models, have a Max symbol on the back next to their Size. These Profile cards are usually ones that have no wound tracks. Whenever a rule refers to the number of Wound Tracks use the Max number instead if the card has one. You can recruit up to this number of these models into a Warband.
 ## Traits
-Each model may have several traits that describe how it behaves in the game. This makes those traits easier to find when you need them. Some traits are Weapon Traits; these are listed on the model’s weapon grid and are only in effect when using that weapon. See Traits (p.59).
+Each model may have several traits that describe how it behaves in the game. This makes those traits easier to find when you need them. Some [[Traits]] are [[Weapon Traits]]; these are listed on the model’s weapon grid and are only in effect when using that weapon.
+
+>[!NOTE] Traits Reminder Text
+>Starter set cards have reminder text for all their traits.
+>Remember this is just a reminder of the rule; the full version is in this rulebook, always look up the complete rules text if there is an issue mid game for clarification.
 ## Ki Feats
-Ki Feats available to the model(s). See Ki Feats (p.56).
+[[Ki Feats]] available to the model(s).
 ## Melee and Ranged Weapon Grids
 All models in Bushido have a melee weapon, though for  any they are fists and feet or claws and teeth. Some also have a ranged weapon. The weapon grid also lists any weapon traits that are in effect when using that weapon, as well as any special attacks and defences that are available when using that weapon:
 1. Designates the weapon as either a Melee or Ranged Attack weapon. Ranged Weapons have Range Bands.
@@ -49,24 +51,20 @@ All models in Bushido have a melee weapon, though for  any they are fists and fe
 	- Medium Range (second value): Ranged Attacks against Targets beyond Short Range and up to and including this distance are at Medium Range.
 	- Long Range (third value): Ranged Attacks against Targets beyond Medium Range and up to and including this distance are at Long Range.
 	- Ranged Attacks against Targets at distances exceeding the weapon’s Long Range automatically fail.
-2. A weapon’s Strength modifier to any Damage Rolls made by this weapon. (Sp) Indicates a special effect instead of a standard damage roll The attack does no damage, some of these weapons have properties detailed in the Unique Effects section of the model’s profile card.
-3. Any Traits associated with the weapon. 
-4. Any Special Attacks and Defences available when using that weapon.
+2. A weapon’s Strength modifier to any Damage Rolls made by this weapon. **Sp** Indicates a special effect instead of a standard damage roll The attack does no damage, some of these weapons have properties detailed in the Unique Effects section of the model’s profile card.
+3. Any [[Traits]] associated with the weapon. 
+4. Any [[Special Abilities|Special Attacks and Defences]] available when using that weapon.
 ## Faction Symbol
-Which Faction the model belongs to. Some models are from the Ronin Faction. Your Warband can only recruit models that belong to your chosen Faction or Ronin models recruitable by your chosen faction as indicated on the Ronin model’s card. See Ronin (p.21).
+Which [[Faction]] the model belongs to. Some models are from the [[Warband Composition#Ronin Models|Ronin]] pseudo-Faction. Your [[Warband]] can only [[Warband Composition|recruit models]] that belong to your chosen Faction, or Ronin models recruitable by your chosen faction as indicated on the Ronin model’s card.
 ## Unique Effects
-Any additional rules that are not Traits or Feats.
-
->[!NOTE] Traits Reminder Text
->Starter set cards have reminder text for all their traits.
->Remember this is just a reminder of the rule; the full version is in this rulebook, always look up the complete rules text if there is an issue mid game for clarification.
+Any additional rules that are not [[Traits]] or [[Ki Feats]].
 ## Rice Cost
-The cost to recruit this model into your Warband.
+The cost to [[Warband Composition|recruit this model]] into your [[Warband]].
 
-Models with Su are Summoned models that enter play during the game through a Ki Feat or Unique Effect and cannot be recruited when creating your Warband.
+Models with **Su** are [[Summon|Summoned]] models that enter play during the game through a [[Ki Feats|Ki Feat]] or Unique Effect and cannot be recruited when [[Warband Composition|creating your Warband]].
 
-Models with Sp are models with a special rule which will be explained on its profile card and cannot be recruited when creating your Warband.
-If a card’s Rice Cost is followed with ea, then more than one model represented by that card may be recruited into your Warband. Each model recruited pays the cost specified.
+Models with **Sp** are models with a special rule which will be explained on its profile card and cannot be recruited when creating your Warband.
+If a card’s Rice Cost is followed with **ea**, then more than one model represented by that card may be recruited into your Warband. Each model recruited pays the cost specified.
 If a model’s Rice Cost is increased or decreased by a Theme list or other rule, the original printed Rice Cost is still used for all game effects relying on the Model’s Rice Cost.
 # Special Cards
 Faction decks include special cards specific to each faction, with a Ronin set of special cards available to all.
@@ -86,7 +84,7 @@ Some cards say to Discard the card after a specific trigger happens. A Discarded
 ## Enhancement Cards
 The player must decide which profile card an Enhancement card is Attached to during the creation of their Warband. During play, place an Attached Enhancement card under the chosen profile card. The model(s) will benefit from the effects detailed on the card for as long as it is Attached to the model(s)’ profile card.
 
-Models with the Insignificant trait cannot have Enhancement cards Attached to their profile cards during Warband creation. Animal, Construct, Kami and Swarm models may only have Enhancement cards that specifically name them as Required.
+Models with the Insignificant trait cannot have Enhancement cards Attached to their profile cards during Warband creation. Animal, [[Construct]], [[Kami]] and [[Swarm]] models may only have Enhancement cards that specifically name them as Required.
 
 Some models have multiple profile cards. If a card says X and Y are considered the same model when creating a Warband, then any Enhancement cards bought for either card are moved to the one starting in play before the game.
 
@@ -126,7 +124,7 @@ Such models never have Ki, effects that would gain them Ki, including Channel, L
 Communal Profiles with a * for maximum Ki are not subject to abilities that remove Ki from them. For example they cannot be Leeched from and the Psychic Drain Ki Feat has no effect.
 Some Communal Cards may grant other abilities, similar to Unique Effects on a profile card. Some Communal Cards add new feats to the community profiles. Always read these as if they were printed on the profile card.
 ## Theme List Cards
-A player can only use one Theme per Warband. Themed lists allow you to trade restrictions in Warband composition for other bonuses during gameplay. Unless otherwise stated, Themes’ benefits only affect Friendly models.
+A player can only use one Theme per [[Warband]]. Themed lists allow you to trade restrictions in Warband composition for other bonuses during gameplay. Unless otherwise stated, Theme benefits only affect Friendly models.
 
 >[!example]
 >Aiko is recruited into the Righteous Warriors Theme, Silverback can now be recruited even though animals, gorillas and Silverback are not listed in the Permitted models.

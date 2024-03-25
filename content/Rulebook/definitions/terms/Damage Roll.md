@@ -1,0 +1,1 @@
+A roll using 2D6, applying any negative or positive [[Modifiers]] then cross-referencing on the Wound Table (p.45) in the column equal to the Success Level of the [test](Tests.md), to see the number of wounds inflicted on a model.

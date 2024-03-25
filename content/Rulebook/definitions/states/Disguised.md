@@ -1,4 +1,4 @@
-While a model has a Disguised (X) marker, Enemy models with a Ki Statistic of 1 or less cannot [[Target]] or voluntarily move into [[BtB]] with the Disguised model.
+While a model has a Disguised (X) marker, Enemy models with a Ki Statistic of 1 or less cannot [[Rulebook/definitions/feats/Target]] or voluntarily move into [[BtB]] with the Disguised model.
 
 If the enemy model has a Ki Statistic of 2 or greater, when making a [[Ranged Attacks|Ranged Attack]] or [[Ki Feats|Ki Feat]] against a Disguised model, once the attack or Feat has been determined to be in range, the Enemy model must make a [[Tests#Challenge Tests|Challenge (X) Ki test]] where X is the highest value of Disguised Marker on the Target model.
 
