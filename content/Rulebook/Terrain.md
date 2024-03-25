@@ -25,7 +25,7 @@ If players cannot agree on the size of a terrain element, by default the Size of
 Some [[Clear]] terrain has no Size (Water for example) and is listed as Size Zero. Given this definitive test, it should be possible to define the Size of a piece of terrain during the game, as and when it becomes relevant to gameplay.
 This does not work for some elements, e.g. walls, so it is only to decide when players cannot agree on odd items of terrain. In a Tournament situation, ask the organiser.
 
-For [[Blocking]] terrain pieces where it is intended that [[LoS|LoS]] can be drawn over them, then these should be classified as [[Rulebook/definitions/traits/Tiny]], such that it is possible to gain [[Cover]], but LoS is not blocked.
+For [[Blocking]] terrain pieces where it is intended that [[LoS|LoS]] can be drawn over them, then these should be classified as [[Rulebook/definitions/traits/Tiny]], such that it is possible to gain [[Rulebook/definitions/terms_concepts/Cover]], but LoS is not blocked.
 
 These rules are designed to allow you to use these traits to represent any terrain collection. Walls, for example, can vary in height depending on how they have been modelled. A wall could be anywhere from a knee-high garden wall [Difficult, Blocking, Tiny] up to a formidable city wall [Difficult, Blocking, Huge].
 

@@ -3,25 +3,22 @@ title: Bushido Rules Resource
 ---
 - Rulebook
 	- [[Game Overview]]
-	- [[Getting Ready]]
-	- [[Terms Concepts|Terms & Concepts]]
+	- [[Terms Concepts]]
 	- [[Cards]]
-	- [[Warband Composition]]
-	- [[Game Setup Turn|Game Setup & Turn]]
-	- [[Movement Placing|Movement & Placing]]
-	- [[Actions]]
-	- [[Tests]]
-	- [[Ranged Attacks]]
-	- [[Melee Exchange]]
-	- [[Wound Table]]
-	- [[Special Abilities]]
-	- [[Model States]]
-	- [[Ki Feats]]
+	- The Rules
+		- [[Warband Composition]]
+		- [[Game Setup Turn|Game Setup & Turn]]
+		- [[Movement Placing|Movement & Placing]]
+		- [[Actions]]
+		- [[Tests]]
+		- [[Ranged Attacks]]
+		- [[Melee Exchange]]
+		- [[Wound Table]]
+		- [[Special Abilities]]
+		- [[Model States]]
+		- [[Ki Feats]]
 	- [[Traits]]
 	- [[Terrain]]
 	- [[Scenario Rules]]
 	- [[Scenarios]]
 - Tournament & Scenario Pack
-- Errata
-- FAQ
-- Mootaz' Unofficial FAQ

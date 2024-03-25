@@ -1,1 +1,0 @@
-A model with no Activation [[Counters]] is considered Exhausted.

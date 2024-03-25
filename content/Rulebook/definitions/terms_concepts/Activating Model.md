@@ -1,0 +1,1 @@
+The model as chosen by the [[Rulebook/definitions/terms_concepts/Active Player]] currently resolving its action.
