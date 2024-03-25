@@ -1,1 +1,0 @@
-This model’s [[LoS|LoS]] extends 360 degrees around its base.

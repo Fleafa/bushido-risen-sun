@@ -1,1 +1,0 @@
- A player’s Warband consists of recruited, [Summoned](Summoning) and Controlled models as well as Special cards.

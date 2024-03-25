@@ -1,1 +1,0 @@
-This model may make a Charge Action as a Standard Simple action, rather than a Complex action.
