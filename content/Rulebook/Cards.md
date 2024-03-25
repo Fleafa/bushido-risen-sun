@@ -5,9 +5,13 @@ The name of the model(s). If this card represents a unique individual character 
 ## Elemental Icons
 Some models are aspected towards one or more of the six elements:
 
-| ![[element-earth.png]] Earth | ![[element-water.png]] Water | ![[element-fire.png]] Fire |
-| ---------------------------- | ---------------------------- | -------------------------- |
-| ![[element-metal.png]] Metal | ![[element-wind.png]] Air    | ![[element-void.png]] Void |
+| ![[element-earth.png]] | ![[element-water.png]] | ![[element-fire.png]] |
+| ---------------------- | ---------------------- | --------------------- |
+| Earth                  | Water                  | Fire                  |
+
+| ![[element-metal.png]] | ![[element-wind.png]]  | ![[element-void.png]] |
+| ---------------------- | ---------------------- | --------------------- |
+| Metal                  | Air                    | Void                  |
 
 ## Base Size & Max Symbol
 If a profile has multiple base size symbols any of the available options are permitted.
