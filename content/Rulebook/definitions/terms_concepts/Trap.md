@@ -1,0 +1,1 @@
+When a model activates, only one Trap Effect may be used.

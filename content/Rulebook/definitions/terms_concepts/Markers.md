@@ -1,0 +1,1 @@
+Markers are used to mark what States are currently affecting a model. See States (p.52).
