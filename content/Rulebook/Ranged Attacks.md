@@ -10,7 +10,7 @@ To make a Ranged Attack take a number of dice equal to the Attacker’s Ranged P
 Determine the Challenge number based on Range and other relevant modifiers.
 Make a Challenge test as normal, followed by a Damage Roll based on the Success Level of the test.
 
-If a Ranged Attack Targets a model in BtB with a Friendly model you will need to determine
+If a Ranged Attack Targets a model in[[BtB]] with a Friendly model you will need to determine
 if you hit your Target or the Friendly model.
 
 ---
@@ -40,7 +40,7 @@ if you hit your Target or the Friendly model.
    If the Attack has failed skip to Step 6.
 3.  
 	1. The players declare the use of any Instant or Active Ki Feats (Active player declares last).
-	2. If the target was in BtB with an enemy model, you must now check to see if you hit the correct target.
+	2. If the target was in[[BtB]] with an enemy model, you must now check to see if you hit the correct target.
 4. The Active Player then makes a Damage Roll against the Target model.
 	1. Any model may use instant Ki feats at this step.
 5. The model gains any Reload markers and removes Ammo Tokens (if applicable) from the weapon on the model’s profile card.
@@ -76,9 +76,9 @@ if you hit your Target or the Friendly model.
 </span>
 
 *Traits and Effects may also modify the roll.*
-## Targeting a Model in BtB with a Friendly Model
+## Targeting a Model in[[BtB]] with a Friendly Model
 
-If a model Targets an Enemy model in BtB with a Friendly model then at step 4b, make a Ranged Challenge test (6), with the following modifiers.
+If a model Targets an Enemy model in[[BtB]] with a Friendly model then at step 4b, make a Ranged Challenge test (6), with the following modifiers.
 
 <span class="unheadedtable">
 
@@ -90,7 +90,7 @@ If a model Targets an Enemy model in BtB with a Friendly model then at step 4b, 
 </span>
 
 If the test is successful proceed as normal.
-If the test is a failure the Target of the Attack is changed to the nearest Friendly model in BtB with the original Target.
+If the test is a failure the Target of the Attack is changed to the nearest Friendly model in[[BtB]] with the original Target.
 The Ranged Attack continues with the new Target.
 
 | [[Tests]] <<< |     | >>> [[Melee Exchange]] |

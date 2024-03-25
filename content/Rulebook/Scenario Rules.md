@@ -19,14 +19,14 @@ Influence (Simple/Complex)
 The player changes the Alignment of a Scenario Objective one Degree (Enemy - Neutral - Friendly).
 
 Prayer (X) (Simple/Complex)
-Each player starts the game with X Prayer Tokens. These are placed in a Prayer Pool for each player. The player removes one Prayer Token from their Prayer Pool and scores Scenario Points (SP’s). The number of SP’s scored depends on the Alignment of the Scenario Objective the model is in BtB with.
+Each player starts the game with X Prayer Tokens. These are placed in a Prayer Pool for each player. The player removes one Prayer Token from their Prayer Pool and scores Scenario Points (SP’s). The number of SP’s scored depends on the Alignment of the Scenario Objective the model is in[[BtB]] with.
 Friendly = 1 Scenario Point
 Neutral = 2 Scenario Points
 Enemy = 3 Scenario Points
 A model may only declare a Scenario action once per Objective in any Turn.
 
 Worship (Simple/Complex)
-The Controller of the model that performs this Scenario Objective Interaction places a Worship marker next to the Scenario Objective in BtB with the model. If the Scenario Objective’s Alignment would be reset instead remove a Worship marker.
+The Controller of the model that performs this Scenario Objective Interaction places a Worship marker next to the Scenario Objective in[[BtB]] with the model. If the Scenario Objective’s Alignment would be reset instead remove a Worship marker.
 
 Some Scenarios will have additional rules denoted by the following Keywords and their rules are detailed as follows:
 

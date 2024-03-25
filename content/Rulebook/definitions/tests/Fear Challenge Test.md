@@ -10,5 +10,5 @@ Resolve a Fear Test when:
 1.	An [[Activating Model]] declares an action or effect that would bring it into [[BtB]] with an Enemy model with the Fear trait.
 	- If the Activating Model fails the Fear test, regardless of the action declared, remove one activation counter, (see actions, p.28), and its activation ends.
 	- It does not enter the [[Frightened]] State.
-2.	An Activating Model with the Fear trait declares an action that would bring it into BtB with an Enemy model.
+2.	An Activating Model with the Fear trait declares an action that would bring it into[[BtB]] with an Enemy model.
 	- If the Enemy model fails its Fear test, it enters the Frightened State.

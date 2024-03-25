@@ -8,15 +8,15 @@ All Special Attacks and Defences have a bracketed cost after the name text, e.g.
 
 A model may only perform one Special Attack or Defence per Melee Exchange or Ranged Attack.
 
-Some special Abilities can cause models to move when successful. All movement from Special Abilities ignore enemy model’s ZoC and being in BtB.
+Some special Abilities can cause models to move when successful. All movement from Special Abilities ignore enemy model’s ZoC and being in[[BtB]].
 
 If through a Special Attack or Defence a model would be moved past the edge of the game area then it stops when its base touches the edge of the board.
 
-If through a movement from a Slam Attack, Throw Attack or Throw Defence a model is moved into BtB with another model then, dependant on the two models’ Sizes, one of the following occurs:
-- If the model contacted is of equalsize, the moving model stops at the point at which it entered BtB, and both models become Prone.
-- If the model contacted is of a larger Size, the moving model stops at the point at which it entered BtB and becomes Prone.
+If through a movement from a Slam Attack, Throw Attack or Throw Defence a model is moved into[[BtB]] with another model then, dependant on the two models’ Sizes, one of the following occurs:
+- If the model contacted is of equalsize, the moving model stops at the point at which it entered[[BtB]], and both models become Prone.
+- If the model contacted is of a larger Size, the moving model stops at the point at which it entered[[BtB]] and becomes Prone.
 - If the model contacted is of a smaller Size, the moving model continues its movement and pushes the model it contacted directly away from the point of contact a distance that would enable the moving model to continue its movement without contacting the model. Both models become Prone at the end of the movement.
-- If through a movement from a Push Attack, Forceback Attack, Drag Defence or Push Defence a model is moved into BtB with another model then the moving model stops at the point at which it entered BtB. to move when successful. All movement ZoC and being in BtB.
+- If through a movement from a Push Attack, Forceback Attack, Drag Defence or Push Defence a model is moved into[[BtB]] with another model then the moving model stops at the point at which it entered[[BtB]]. to move when successful. All movement ZoC and being in[[BtB]].
 - If an Impassable Terrain element would prevent this movement, then the model must stop at the point of contact with the Terrain element. If this was due to a Slam Attack, Throw Attack or Throw Defence, the model also becomes prone.
 
 Ranged attacks will never have Special Defences because there are no defence dice for a ranged attack. However, ranged weapons may have Special Attacks on their weapon grid.
@@ -52,7 +52,7 @@ If the Attack is successful, move the Defender directly away from this model unt
 The Defender does not suffer a Damage Roll from this Attack.
 
 Sidestep Attack
-If the Attack is successful, the Attacker leaves BtB and then move away from the Defender until The Attacker leaves The Defender’s ZoC, at which point its movement ends.
+If the Attack is successful, the Attacker leaves[[BtB]] and then move away from the Defender until The Attacker leaves The Defender’s ZoC, at which point its movement ends.
 The Attacker makes no damage roll.
 
 Slam Attack
@@ -76,10 +76,10 @@ If this Defence is successful, and the Attacker allocated any dice to Attack, th
 If the Success Level is 0 or greater, then make a Damage Roll against the Attacker using the modified Success Level of the Defence.
 
 Drag Defence
-If the Defence is successful, move the Defender 1” away from the Attacker, then move the Attacker directly into BtB with the Defender.
+If the Defence is successful, move the Defender 1” away from the Attacker, then move the Attacker directly into[[BtB]] with the Defender.
 
 Forceback Defence
-If the Defence is successful, move the Attacker 1” directly away from the Defender, then move the Defender directly into BtB with the Attacker.
+If the Defence is successful, move the Attacker 1” directly away from the Defender, then move the Defender directly into[[BtB]] with the Attacker.
 
 Grapple Defence: If the Defence is successful, the Attacker becomes Held. Place a Held marker on the Attacker.
 
@@ -87,7 +87,7 @@ Push Defence
 If the Defence is successful, move the Attacker directly away from the Defender until it leaves the defender’s ZoC.
 
 Sidestep Defence
-If the Defence is successful, the Defender leaves BtB and then move away from the Attacker until the Defender leaves The Attacker’s ZoC, at which point its movement ends.
+If the Defence is successful, the Defender leaves[[BtB]] and then move away from the Attacker until the Defender leaves The Attacker’s ZoC, at which point its movement ends.
 
 Sweep Defence
 If the Defence is successful, then the Attacker becomes Prone.

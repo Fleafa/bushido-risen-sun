@@ -5,6 +5,3 @@ When this model activates, you may choose up to X non-Exhausted Friendly models 
 This model and each model chosen must declare a melee, ranged or charge action against the same target.
 Each model resolves any movement before any Melee Exchanges are resolved.
 Melee Exchanges are then resolved in the order the Controlling player chooses.
-
-"concept-exhausted", "concept-select", "concept-target", "concept-friendly"
-"revision": 0

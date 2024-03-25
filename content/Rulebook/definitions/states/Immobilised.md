@@ -4,7 +4,7 @@ If successful the model removes all Immobilised markers and resolves its action 
 
 An Immobilised model cannot declare the use of [[Special Abilities|Special Attacks or Defences]].
 A model can declare a [[Wait action]] to remove all Immobilised markers.
-Enemy models in [[BtB]] with an Immobilised model can declare actions as if they were not in BtB.
+Enemy models in [[BtB]] with an Immobilised model can declare actions as if they were not in[[BtB]].
 If any other effect moves an Immobilised model, then remove all Immobilised markers from it.
 
 [[Intangible]] models have [[Immune]] [Immobilised].
