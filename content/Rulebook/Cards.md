@@ -8,6 +8,7 @@ Some models are aspected towards one or more of the six elements:
 | ![[element-earth.png]] Earth | ![[element-water.png]] Water | ![[element-fire.png]] Fire |
 | ---------------------------- | ---------------------------- | -------------------------- |
 | ![[element-metal.png]] Metal | ![[element-wind.png]] Air    | ![[element-void.png]] Void |
+
 ## Base Size & Max Symbol
 If a profile has multiple base size symbols any of the available options are permitted.
 ## Type
