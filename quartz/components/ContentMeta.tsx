@@ -8,11 +8,13 @@ interface ContentMetaOptions {
   /**
    * Whether to display reading time
    */
-  showReadingTime: boolean
+  showReadingTime: boolean,
+  showRevision: boolean
 }
 
 const defaultOptions: ContentMetaOptions = {
-  showReadingTime: true,
+  showReadingTime: false,
+  showRevision: true,
 }
 
 export default ((opts?: Partial<ContentMetaOptions>) => {
@@ -36,6 +38,13 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
           minutes: Math.ceil(minutes),
         })
         segments.push(displayedTime)
+      }
+
+      // Display revision time if enabled
+      if (options.showRevision) {
+        const revision = fileData.frontmatter?.revision
+        const displayedRev = "hello"
+        segments.push(displayedRev)
       }
 
       return <p class={classNames(displayClass, "content-meta")}>{segments.join(", ")}</p>
