@@ -1,6 +1,3 @@
----
-title: 1-Contents
----
 ## [[Game Overview]]
 ## [[Getting Ready]]
 ## [[Terms Concepts|Terms & Concepts]]
