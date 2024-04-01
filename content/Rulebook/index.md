@@ -11,7 +11,7 @@ title: Rulebook Contents
 ## [[Actions]]
 ## [[Tests]]
 ## [[Ranged Attacks]]
-## [[Melee Exchange|Melee Exchanges]]
+## [[Melee Exchanges]]
 ## [[Wound Table]]
 ## [[Special Abilities]]
 ## [[Model States]]
