@@ -11,6 +11,8 @@ This site is auto-generated from what I hope will become the source for Bushido 
 
 This site is intended as both a simple supporting resource for discussion and games, and as an example of what can be done with the source rules. I look forward to seeing what better programmers can do. Check out the tools section of the Bushido Discord server if you want to know more.
 
+Consider this an open beta test for the time being. I have a few things I want to improve, such as better navigation, mobile navigation, & more backlinks.
+
 Use the search function. It is very good!
 
 -Ben.
