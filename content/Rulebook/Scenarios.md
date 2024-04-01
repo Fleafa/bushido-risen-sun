@@ -48,5 +48,5 @@
 	- 1VP To the player with the most Friendly Scenario Objectives at the end of Turn 6.
 - Decreasing Scorer
 
-| [[Scenario Rules]] <<< |     |     |
+| [[Rulebook/Scenario Rules]] <<< |     |     |
 | ---------------------- | --- | --- |

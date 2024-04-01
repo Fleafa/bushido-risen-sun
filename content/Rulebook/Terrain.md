@@ -61,5 +61,5 @@ Terrain should be 2” from the edge of the table, but if you have very large it
 Other terrain can be set up as you wish but not in contact with other terrain or overlapping.
 The terrain should be equally spread around the table.
 
-| [[Traits]] <<< |     | >>> [[Scenario Rules]] |
+| [[Traits]] <<< |     | >>> [[Rulebook/Scenario Rules]] |
 | -------------- | --- | ---------------------- |

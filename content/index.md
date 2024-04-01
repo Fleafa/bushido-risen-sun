@@ -19,8 +19,8 @@ title: Bushido Rules Resource
 	- [[Ki Feats]]
 	- [[Traits]]
 	- [[Terrain]]
-	- [[Scenario Rules]]
-	- [[Scenarios]]
+	- [[Rulebook/Scenario Rules]]
+	- [[Rulebook/Scenarios]]
 - Tournament & Scenario Pack
 - Errata
 - FAQ

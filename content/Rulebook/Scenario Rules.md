@@ -79,5 +79,5 @@ At the end of the game, the player who has scored the highest number of VP’s i
 If both players have scored an equal number of VP’s, then the game is a draw.
 Only 3 VPs can be scored in any scenario, so both players VP scores combined will always be three or less.
 
-| [[Terrain]] <<< |     | >>> [[Scenarios]] |
+| [[Terrain]] <<< |     | >>> [[Rulebook/Scenarios]] |
 | --------------- | --- | ----------------- |

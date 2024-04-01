@@ -1,0 +1,1 @@
+A player who has no game in a round is said to have a bye round.

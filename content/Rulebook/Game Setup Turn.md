@@ -5,7 +5,7 @@ title: Game Setup & Turn
 Before starting the first Turn, players need to set up the game using the following
 steps:
 1. First, each player should [[Warband Composition|create a Warband]].
-2. Then either agree on or randomly decide, a [[Scenarios|Scenario]] to play.
+2. Then either agree on or randomly decide, a [[Rulebook/Scenarios|Scenario]] to play.
 3. Players deploy/nominate any Scenario Objectives as instructed by the Scenario.
 4. Players deploy [[Terrain]] and then select Deployment Zones. When deploying Terrain elements, follow these three steps:
 	1. Players make a Deployment [[Tactical Test]]; the winner decides which player is Player 1.
@@ -21,7 +21,7 @@ steps:
 
 # A Game Turn
 Games of Bushido are broken down into a number of Turns.
-How many Turns the game lasts is dictated by the [[Scenarios|Scenario]] being played.
+How many Turns the game lasts is dictated by the [[Rulebook/Scenarios|Scenario]] being played.
 Each game Turn is divided into three Phases:
 
 ![[Starting Phase]]
