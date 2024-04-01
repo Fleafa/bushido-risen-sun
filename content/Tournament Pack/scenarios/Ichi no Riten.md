@@ -1,4 +1,4 @@
-- Type:
+ Type:
 	- Advanced VIM & Zone Control
 - Game Length:
 	- Variable (5)
@@ -9,3 +9,5 @@
 - Reset Scenario Points (4)
 
 ![[Sce-Ichi_no_Riten.png]]
+
+![[legend-scenarios]]

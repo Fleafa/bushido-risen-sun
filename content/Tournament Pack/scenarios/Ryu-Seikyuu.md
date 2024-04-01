@@ -8,4 +8,6 @@
 	- player with most Scenario Points in the End Phase of Turn 6.
 - Reset Scenario Points (2,4,6)
 
-![[Sce-Seikyu.png]]
+![[Sce-Ryu-Seikyuu.png]]
+
+![[legend-scenarios]]

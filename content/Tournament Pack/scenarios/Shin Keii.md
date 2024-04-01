@@ -11,3 +11,5 @@
 - Reset Scenario Points (3,5)
 
 ![[SceObj-circle.png]]
+
+![[legend-scenarios]]

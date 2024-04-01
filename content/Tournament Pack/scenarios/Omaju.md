@@ -13,3 +13,5 @@
 	- The first Influence Action of the game (not per player) is Complex.
 
 ![[SceObj-centre.png]]
+
+![[legend-scenarios]]

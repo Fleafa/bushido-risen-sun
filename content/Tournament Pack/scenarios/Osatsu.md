@@ -16,3 +16,5 @@ title: Ōsatsu
 	- The Alignment of the Zones changes to match the Alignment of the Objective at the centre of that Zone.
 
 ![[Sce-Osatsu.png]]
+
+![[legend-scenarios]]

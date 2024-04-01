@@ -1,6 +1,6 @@
-##--
+---
 title: Bushido Rules Resource
-##--
+---
 # About This Site
 This site is auto-generated from what I hope will become the source for Bushido rules, hosted on GitHub, and therefore can form a single source of truth for community app projects.
 
@@ -14,31 +14,15 @@ This site is intended as both a simple supporting resource for discussion and ga
 Use the search function. It is very good!
 
 -Ben.
-# Rulebook
-## [[Game Overview]]
-## [[Getting Ready]]
+# [[Rulebook/index|Rulebook]]
 ## [[Terms Concepts|Terms & Concepts]]
-## [[Cards]]
-## [[Warband Composition]]
 ## [[Game Setup Turn|Game Setup & Turn]]
-## [[Movement Placing|Movement & Placing]]
 ## [[Actions]]
-## [[Tests]]
-## [[Ranged Attacks]]
-## [[Melee Exchange|Melee Exchanges]]
-## [[Wound Table]]
 ## [[Special Abilities]]
 ## [[Model States]]
-## [[Ki Feats]]
 ## [[Traits]]
-## [[Terrain]]
-## [[Rulebook/Scenario Rules|Scenario Rules]]
 ## [[Rulebook/Scenarios|Scenarios]]
-# Tournament & Scenario Pack
-## [[Introduction]]
-## [[Masters Format]]
-## [[Variants]]
-## [[Tournament Pack/Scenario Rules|Scenario Rules]]
+# [[Tournament Pack/index|Tournament & Scenario Pack]]
 ## [[Deployment]]
 ## [[Game Setup]]
 ## [[Tournament Pack/Scenarios|Scenarios]]

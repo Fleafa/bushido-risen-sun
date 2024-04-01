@@ -9,3 +9,5 @@
 - Reset Scenario Points (3,5)
 
 ![[Sce-Ryodo.png]]
+
+![[legend-scenarios]]

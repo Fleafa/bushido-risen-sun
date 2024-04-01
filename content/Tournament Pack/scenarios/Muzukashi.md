@@ -12,3 +12,5 @@
 - Decreasing
 
 ![[SceObj-circle.png]]
+
+![[legend-scenarios]]
