@@ -1,5 +1,5 @@
 ---
-title: Tournament Pack Contents
+title: 1-Contents
 ---
 ## [[Introduction]]
 ## [[Masters Format]]

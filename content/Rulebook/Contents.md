@@ -1,5 +1,5 @@
 ---
-title: Rulebook Contents
+title: 1-Contents
 ---
 ## [[Game Overview]]
 ## [[Getting Ready]]

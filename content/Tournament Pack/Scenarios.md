@@ -21,25 +21,17 @@ Some TOs like to roll each scenario live in front of the players, this creates a
 |     | 5   | [[Ryodo]]        |     | 5   | [[Seigyo]]         |
 |     | 6   | [[Ryu-Seikyuu]]  |     | 6   | [[Osatsu\|Ōsatsu]] |
 ## Scenario by Type
-| 1-3 | Objective |                    |     | 4-6  |     |                    |
-| --- | --------- | ------------------ | --- | ---- | --- | ------------------ |
-|     | 1         | [[Depletion]]      |     | Zone | 1   | [[Ryodo]]          |
-|     | 2         | [[Omaju]]          |     |      | 2   | [[Ryu-Seikyuu]]    |
-|     | 3         | [[Sacred Idols]]   |     |      | 3   | [[Botoku\|Botokū]] |
-|     | 4         | [[Shin Keii]]      |     | VIM  |     |                    |
-|     | 5         | [[Ninki]]          |     |      | 4   | [[Ichi no Riten]]  |
-|     | 6         | [[Osatsu\|Ōsatsu]] |     |      | 5   | [[Muzukashi]]      |
-|     |           |                    |     |      | 6   | [[Seigyo]]         |
-## Scenario Objective Size
-
-|     | Scenario Objective Size |
-| --- | ----------------------- |
-| 1-3 | 30mm base               |
-| 4-6 | 50mm base               |
-## VIM Type
-
-|     | VIM Type  |
-| --- | --------- |
-| 1-2 | Open      |
-| 3-4 | Hidden    |
-| 5-6 | Nominated |
+| 1-3 |     | Objective          |     | 4-6  |     | Zone / VIM         |
+| --- | --- | ------------------ | --- | ---- | --- | ------------------ |
+|     | 1   | [[Depletion]]      |     | Zone | 1   | [[Ryodo]]          |
+|     | 2   | [[Omaju]]          |     |      | 2   | [[Ryu-Seikyuu]]    |
+|     | 3   | [[Sacred Idols]]   |     |      | 3   | [[Botoku\|Botokū]] |
+|     | 4   | [[Shin Keii]]      |     | VIM  | 4   | [[Ichi no Riten]]  |
+|     | 5   | [[Ninki]]          |     |      | 5   | [[Muzukashi]]      |
+|     | 6   | [[Osatsu\|Ōsatsu]] |     |      | 6   | [[Seigyo]]         |
+## Scenario Objective Size & VIM Type
+|     | Scenario Objective Size | |     | VIM Type  |
+| --- | ----------------------- | --- | --- | --------- |
+| 1-3 | 30mm base               | | 1-2 | Open      |
+| 4-6 | 50mm base               | | 3-4 | Hidden    |
+| | | | 5-6 | Nominated |
