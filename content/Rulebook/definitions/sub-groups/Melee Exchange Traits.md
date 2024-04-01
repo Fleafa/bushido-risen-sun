@@ -1,30 +1,59 @@
-[[Rulebook/definitions/traits/Aggressive]]
-[[Rulebook/definitions/traits/Assassin]]
-[[Rulebook/definitions/traits/Aware]]
-[[Rulebook/definitions/traits/Brutal]]
-[[Rulebook/definitions/traits/Chain Weapon]]
-[[Rulebook/definitions/traits/Charging Bonus]]
-[[Rulebook/definitions/traits/Co-ordinated Attack]]
-[[Rulebook/definitions/traits/Defensive]]
-[[Rulebook/definitions/traits/Dodge]]
-[[Rulebook/definitions/traits/Endurance]]
-[[Rulebook/definitions/traits/Feint]]
-[[Rulebook/definitions/traits/Impenetrable Defence]]
-[[Rulebook/definitions/traits/Indomitable]]
-[[Rulebook/definitions/traits/Insignificant]]
-[[Rulebook/definitions/traits/Kata]]
-[[Rulebook/definitions/traits/Lightning Reflexes]]
-[[Rulebook/definitions/traits/Parry]]
-[[Rulebook/definitions/traits/Pierce]]
-[[Rulebook/definitions/traits/Prowess]]
-[[Rulebook/definitions/traits/Reach]]
-[[Rulebook/definitions/traits/Sharp]]
-[[Rulebook/definitions/traits/Sixth Sense]]
-[[Rulebook/definitions/traits/Slow]]
-[[Rulebook/definitions/traits/Split Attack]]
-[[Rulebook/definitions/traits/Strong]]
-[[Rulebook/definitions/traits/Tireless]]
-[[Rulebook/definitions/traits/Tough]]
-[[Rulebook/definitions/traits/Unblockable]]
-[[Rulebook/definitions/traits/Vengeance]]
-[[Rulebook/definitions/traits/Weak]]
+![[Aggressive]]
+
+![[Assassin]]
+
+![[Aware]]
+
+![[Brutal]]
+
+![[Chain Weapon]]
+
+![[Charging Bonus]]
+
+![[Co-ordinated Attack]]
+
+![[Defensive]]
+
+![[Dodge]]
+
+![[Endurance]]
+
+![[Feint]]
+
+![[Impenetrable Defence]]
+
+![[Indomitable]]
+
+![[Insignificant]]
+
+![[Kata]]
+
+![[Lightning Reflexes]]
+
+![[Parry]]
+
+![[Pierce]]
+
+![[Prowess]]
+
+![[Reach]]
+
+![[Sharp]]
+
+![[Sixth Sense]]
+
+![[Slow]]
+
+![[Split Attack]]
+
+![[Strong]]
+
+![[Tireless]]
+
+![[Tough]]
+
+![[Unblockable]]
+
+![[Vengeance]]
+
+![[Weak]]

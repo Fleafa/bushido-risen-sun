@@ -13,16 +13,19 @@ In Tournaments, the TO will announce the scenario, Deployment type, and Objectiv
 ## Baseline Deployment
 Models are set up with the base of the model touching the edge of the battlefield.
 Neutral edges extend the full 24” along non-Deployment edges.
+
 ![[Dep-baseline.png]]
 ## Corner Square Deployment
 Players set up their models completely within a 6” square in opposite corners of the battlefield.
 Neutral edges extend 12” from each non-Deployment corner.
 Unless the scenario diagram provided at the event shows otherwise, players should use the corners as shown here.
+
 ![[Dep-corner_square.png]]
 ## Corner Edge Deployment
 Players set up their models touching a battlefield edge within 8” of a chosen corner.
 Neutral edges extend 12” from each non-Deployment corner.
 Unless the scenario diagram provided at the event shows otherwise, players should use the corners as shown here.
+
 ![[Dep-corner_edge.png]]
 # Terrain Deployment
 When players are deploying terrain, these rules apply to all terrain placed before the game begins. This replaces the relevant sections of the Rulebook p.74.

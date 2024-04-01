@@ -1,0 +1,2 @@
+**Q: If using the Serpent's Coil theme, multiple models take damage due to poison, do my models gain multiple Ki?**
+A: This can trigger multiple times granting multiple Ki. Note the models Poisoned do not have to be Enemy models.
