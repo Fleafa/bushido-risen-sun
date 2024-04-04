@@ -89,22 +89,26 @@ table tr td:first-child {
 
 #damagetable th,
 #damagetable tr:nth-child(0), #damagetable tr:nth-child(2), #damagetable tr:nth-child(5), #damagetable tr:nth-child(6), #damagetable tr:nth-child(7), #damagetable tr:nth-child(10) { 
-	background-color: #448aff10; 
-} 
+	background-color: var(--tertiary); 
+}
+
+#damagetable tr td {
+	border-left: none;
+}
 
 .headedtable th, .headedtable tr:nth-child(even) { 
-	background-color: #448aff10; 
-} 
+	background-color: var(--tertiary);
+}
 
 .unheadedtable tr:nth-child(even) { 
-	background-color: #448aff10; 
-} 
+	background-color: var(--tertiary);
+}
 
 /*-------------------------------------------
 MOBILE ONLY
 -------------------------------------------*/
 
-@media all and (max-width: $mobileBreakpoint) {
+@media (max-width: $mobileBreakpoint) {
 	table {
 		width: 100%;
 	}
