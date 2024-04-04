@@ -1,7 +1,7 @@
 ---
 title: Melee Exchanges
 aliases:
-  - Melee Exchanges
+  - Melee-Exchanges
 ---
 A Melee Attack is a type of Opposed test, and all the usual rules apply, during a Melee Attack the use of Instant and Active Ki Feats (and effects that can be used as Instants) is restricted. For a Melee Exchange, however, two tests are rolled simultaneously, with each model rolling Attack and Defence dice at the same time and applying traits to see which model comes out of the exchange victorious.
 ## Melee Exchanges
