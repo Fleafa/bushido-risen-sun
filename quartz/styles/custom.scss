@@ -105,14 +105,12 @@ MOBILE ONLY
 			margin: 0.1rem;
 			padding: 0.5rem;
 			width: 100%;
+
+			th,
+			td {
+			  min-width: 0px;
+			  padding: 0.4rem 0.05rem;
 			}
-  
-		th {
-			padding: 0.4rem 0.05rem;
-		}
-		
-		td {
-			padding: 0.2rem 0.05rem;
 		}
 	}
 }
