@@ -99,24 +99,17 @@ MOBILE ONLY
 -------------------------------------------*/
 
 .mobile-only {
-	.table-container {
-		//	overflow-x: auto;
-	  
-		& > table {
-		//	margin: .05rem;
-		//	padding: .05rem;
-		//	border-collapse: collapse;
-		//	width: 100%;
-	  
-		  th,
-		  td {
-		//	min-width: 5px;
-		//	padding: 0.4rem 0.05rem;
-		  }
-	  
-		  & > * {
-		//	line-height: 2rem;
-		  }
-		}
-	  }
+
+	.table-container>table th,
+	.table-container>table td {
+		min-width:auto;
+	}
+
+	th {
+		padding: 0.4rem 0.1rem;
+	}
+
+	td {
+		padding: 0.4rem 0.1rem;
+	}
 }
