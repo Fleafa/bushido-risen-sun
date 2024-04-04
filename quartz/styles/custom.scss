@@ -103,8 +103,7 @@ table tr td:first-child {
 MOBILE ONLY
 -------------------------------------------*/
 
-.mobile-only {
-
+@media all and (max-width: $mobileBreakpoint) {
 	table {
 		width: 100%;
 	}
