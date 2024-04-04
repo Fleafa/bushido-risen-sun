@@ -35,6 +35,18 @@ const config: QuartzConfig = {
           secondary: "#953232",
           tertiary: "#84a59d",
           highlight: "rgba(93, 161, 174, 0.15)",
+          // bluemunsell: #5296A3ff,
+          // ashgray: #B5BAB3ff, // body bg
+          // firebrick: #B91E25ff,
+          // oldrose: #B66F73ff,
+          // moonstone: #5EA2AFff,/* Color Theme Swatches in Hex */
+          /*
+          $light-1-hex: #B91E25; // bright red
+          $light-2-hex: #B66F73; // light red
+          $light-3-hex: #B5BAB3; // pale
+          $light-4-hex: #3D6167; // dark teal
+          $light-5-hex: #5296A3; // ligh teal
+          */
         },
         darkMode: { 
           light: "#2c2720",
@@ -42,9 +54,21 @@ const config: QuartzConfig = {
           gray: "#646464",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
-          secondary: "#d4c0a8", //links
+          secondary: "#d4c0a8", // links
           tertiary: "#383741",
           highlight: "rgba(143, 159, 169, 0.15)",
+          // lion: #b59b6e // links
+          // persian-red: #ca363c
+          // burnt-umber: #902c22
+          // bistre: #3b1e13 // body bg
+          // pearl: #dfd7bd
+          /*
+          $light-1-hex: #B91E25; // sand
+          $light-2-hex: #B66F73; // brown
+          $light-3-hex: #B5BAB3; // dark red
+          $light-4-hex: #3D6167; // light red
+          $light-5-hex: #5296A3; // pale
+          */
         },
       },
     },
