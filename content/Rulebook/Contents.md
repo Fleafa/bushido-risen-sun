@@ -8,7 +8,7 @@
 ## [[Actions]]
 ## [[Tests]]
 ## [[Ranged Attacks]]
-## [[Melee Exchanges]]
+## [[Melee Exchange|Melee-Exchanges]]
 ## [[Wound Table]]
 ## [[Special Abilities]]
 ## [[Model States]]

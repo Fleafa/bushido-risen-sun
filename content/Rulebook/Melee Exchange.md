@@ -1,10 +1,9 @@
 ---
 title: Melee Exchanges
-aliases:
-  - Melee-Exchanges
+aliases: []
 ---
 A Melee Attack is a type of Opposed test, and all the usual rules apply, during a Melee Attack the use of Instant and Active Ki Feats (and effects that can be used as Instants) is restricted. For a Melee Exchange, however, two tests are rolled simultaneously, with each model rolling Attack and Defence dice at the same time and applying traits to see which model comes out of the exchange victorious.
-## Melee Exchanges
+## Overview
 A Melee Exchange represents the awesome conflicts between the characters of Bushido using Katanas, Martial Arts, claws and teeth, Magical abilities and other stranger fighting techniques.
 
 > [!example]
@@ -63,6 +62,8 @@ Once the Melee Exchange is over, remove an Activation Counter from both models.
 
 ---
 
+## Timing Chart
+
 > [!NOTE]
 > This timing chart covers every eventuality of combinations of Abilities, Ki Feats, Special Attacks and Defences and all manner of other ‘in game’ occurrences.
 
@@ -79,7 +80,7 @@ Use the following steps to resolve a Melee Exchange:
 	2. Both players may now use Instant Ki Feats to change the initiative. The non-Activating player declares first. If the initiative was changed, the Activating player may then also declare Instant Ki Feats to change the initiative.
 	3. The initiative is now set and cannot be changed.
 4. Both players then calculate their model’s dice pool using its Melee pool Statistic value as the base number of dice used and apply any modifiers. They then decide if they will use any abilities, Ki Feats or increase the Melee pool Statistic through a Ki Boost. The Non Active Player must declare everything before the Active Player.
-5. Once the players have calculated their dice pools, they must both secretly decide how to allocate the dice between Attack and Defence. If players are using a Special Attack or Special Defence, then they must secretly remove a number of dice from their pool equal to the cost of the Special Attack or Defence (See Special Attacks & Defenses). Also include the use of any effects, including Instant (Or active for the active player) Ki Feats, which alter the cost of Attacks or Defences or add additional Attacks or Defences. The Dice allocation and choice of Special Ability is Hidden Information until simultaneously revealed.
+5. Once the players have calculated their dice pools, they must both secretly decide how to allocate the dice between Attack and Defence. If players are using a Special Attack or Special Defence, then they must secretly remove a number of dice from their pool equal to the cost of the Special Attack or Defence (See Special Attacks & Defences). Also include the use of any effects, including Instant (Or active for the active player) Ki Feats, which alter the cost of Attacks or Defences or add additional Attacks or Defences. The Dice allocation and choice of Special Ability is Hidden Information until simultaneously revealed.
 	1. Two distinct colours of dice are needed; one colour represents Attack and the other Defence. 
 
 > [!example]
