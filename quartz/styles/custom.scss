@@ -100,21 +100,20 @@ MOBILE ONLY
 -------------------------------------------*/
 
 .mobile-only {
-  @media all and (max-width: $fullPageWidth) {
-    .table-container {	  
-		& > table {
-		  margin: 0.1rem;
-		  padding: 0.5rem;
-		  width: 100%;
+	@media all and (max-width: $fullPageWidth) {
+		table {
+			margin: 0.1rem;
+			padding: 0.5rem;
+			width: 100%;
+			}
+		}
+  
+		th {
+			padding: 0.4rem 0.05rem;
+		}
+		
+		td {
+			padding: 0.2rem 0.05rem;
 		}
 	}
-  
-	th {
-		padding: 0.4rem 0.05rem;
-	}
-	
-	td {
-		padding: 0.2rem 0.05rem;
-	}
-  }
 }
