@@ -73,6 +73,11 @@ CALLOUTS
 TABLES
 -------------------------------------------*/
 
+.table-container>table th,
+.table-container>table td {
+	min-width:auto;
+}
+
 table tr td {
 	border-left: 1px solid var(--lightgray);
 }
@@ -100,6 +105,9 @@ MOBILE ONLY
 
 .mobile-only {
 
+	table {
+		width: 100%;
+	}
 	.table-container>table th,
 	.table-container>table td {
 		min-width:auto;
