@@ -57,29 +57,6 @@ blockquote {
 	}
 }
 
-.table-container > table th, .table-container > table td {
-	min-width: 10px;
-}
-
-.table-container {
-	overflow-x: auto;
-  
-	& > table {
-	  margin: 0.1rem;
-	  padding: 0.5rem;
-	  border-collapse: collapse;
-	}
-}
-  
-th {
-	text-align: left;
-	padding: 0.4rem 0.05rem;
-}
-  
-td {
-	padding: 0.2rem 0.05rem;
-}
-
 #damagetable th,
 #damagetable tr:nth-child(0), #damagetable tr:nth-child(2), #damagetable tr:nth-child(5), #damagetable tr:nth-child(6), #damagetable tr:nth-child(7), #damagetable tr:nth-child(10) { 
 	background-color: #448aff10; 
@@ -96,3 +73,25 @@ td {
 a.internal {
 	  background-color: transparent;
 	}
+
+
+
+.mobile-only {
+  @media all and (max-width: $fullPageWidth) {
+    .table-container {	  
+		& > table {
+		  margin: 0.1rem;
+		  padding: 0.5rem;
+		  width: 100%;
+		}
+	}
+  
+	th {
+		padding: 0.4rem 0.05rem;
+	}
+	
+	td {
+		padding: 0.2rem 0.05rem;
+	}
+  }
+}
