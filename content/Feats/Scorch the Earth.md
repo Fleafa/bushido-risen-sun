@@ -2,7 +2,8 @@
 title: Scorch the Earth
 cost: Rank 1
 timing: Active
-subject: Special BtB
+subject: Special
+range: BtB
 limitations:
   - noBtB
   - OpT
