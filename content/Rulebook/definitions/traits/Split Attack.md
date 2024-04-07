@@ -1,5 +1,5 @@
 ---
-revision: "1"
+revision: 1
 ---
 When this model declares a Melee or Charge Action it may move into[[BtB]] with 2 or more Enemy models and ignores their ZoC as long as it is moving closer to the point where it is in[[BtB]] with both.
 After its movement, if it is in[[BtB]] with two or more Enemy models, the player may resolve a Melee Exchange with two or more of those models.

@@ -1,5 +1,5 @@
 ---
-revision: "1"
+revision: 1
 ---
 If either:  
 - this model did not begin its activation in [[BtB|BtB]] with an Enemy model, performs an action that [[Rulebook/definitions/feats/Target|Targets]] that enemy or brings it into[[BtB]] with that Enemy model, and started outside of [[LoS]] of that Enemy model and remains outside of it's LoS during movement

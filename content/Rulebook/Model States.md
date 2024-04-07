@@ -8,7 +8,7 @@
 - [[Frightened]]
 - [[Held]]
 - [[Immobilised]]
-- [[Impetuous]]
+- [[Impetuous-state]]
 - [[On Fire]]
 - [[Poisoned]]
 - [[Prone]]

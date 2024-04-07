@@ -1,1 +1,1 @@
-This model is never Surprised, ignores the Camouflage trait and has Immune [Blind].
+This model is never Surprised, ignores the Camouflage trait and has Immune [[[Blind]]].
