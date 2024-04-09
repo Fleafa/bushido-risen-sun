@@ -1,1 +1,1 @@
-![[personal.png]]  The Ki Feat [[Rulebook/definitions/terms/Target|targets]] the user only.
+![[Subject-Personal.png]]  The Ki Feat [[Rulebook/definitions/terms/Target|targets]] the user only.

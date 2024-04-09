@@ -40,7 +40,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         segments.push(displayedTime)
       }
 
-      // Display revision time if enabled
+      // Display revision if enabled
       if (options.showRevision) {
         const revision = fileData.frontmatter?.revision
         if (revision != null) {
