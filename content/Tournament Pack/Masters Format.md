@@ -14,8 +14,21 @@ We have three suggested limits but really any value is valid as suits your commu
 ## Number of rounds
 We suggest that the TO adjusts the rounds to the number of players, but a tournament should have at least 8 players to be considered official, and should run for 3 rounds in order to establish a winner. 
 The main determiner is the time you have available, of course.
+
+| Players | Rounds |
+| ------- | ------ |
+| 8-15    | 3      |
+| 16-31   | 4      |
+| 32-63   | 5      |
+| 64+     | 6      |
 ## Round timings
 The length of each round should be adjusted dependant on the Rice Cost of the Warbands for the tournament. 
+
+| Game Size    | Round Length |
+| ------------ | ------------ |
+| Small/Medium | 75 min.      |
+| Standard     | 120 min.     |
+
 ## First round pairings
 The first round pairings should be determined at random and where possible not pairing players who regularly play against each other i.e. from the same town, club or store. 
 ## Subsequent pairings
