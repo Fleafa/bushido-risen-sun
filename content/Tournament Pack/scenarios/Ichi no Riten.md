@@ -1,4 +1,4 @@
- Type:
+ - Type:
 	- Advanced VIM & Zone Control
 - Game Length:
 	- Variable (5)

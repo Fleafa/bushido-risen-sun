@@ -58,16 +58,16 @@ Judges can use discretion over specific activations.
 > In the case of a particularly close measurement, or if a rules issue arises it may take time to get the correct result.
 ### Timed activations
 Players have 5 minutes to perform each model’s whole activation. The clock can be paused each time the opponent has to interrupt or make a choice.
-### Relaxed
+### Relaxed Round Timings
 Best used for friendly local events.
 It’s possible to play 3 rounds in a day and have time for Lunch and breaks between rounds.
 
 | Game Size | Round Length | Death Clock |
-| --- | --- | --- |
-| Small | 90 min. | 45 min. |
-| Medium | 90 min. | 45 min. |
-| Standard | 150 min. | 75 min. |
-### Fast
+| --------- | ------------ | ----------- |
+| Small     | 90 min.      | 45 min.     |
+| Medium    | 90 min.      | 45 min.     |
+| Standard  | 150 min.     | 75 min.     |
+### Fast Round Timings
 Generally for large Grand Masters events or competitive practice for large events.
 This allows for 4 rounds in a day with Lunch and breaks between rounds.
 
@@ -77,7 +77,7 @@ This allows for 4 rounds in a day with Lunch and breaks between rounds.
 | Medium    | 60 min.      | 30 min.     |
 | Standard  | 120 min.     | 60 min.     |
 ### Ludicrous Speed
-Almost a format to its self!
+Almost a format to itself!
 This is a fun way to shake things up and play faster but may not be suitable for very competitive events where players need to carefully execute their tactics.
 
 | Game Size | Round Length | Death Clock |
