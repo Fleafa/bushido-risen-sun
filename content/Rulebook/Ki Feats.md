@@ -7,9 +7,9 @@ The cost of a Ki Feat can be expressed with either a fixed cost or a variable co
 
 ## Restrictions
 
-!![[noBtB.png]]
+![[noBtB]]
 
-!![[noMove.png]]
+![[noMove]]
 
 ![[OpT]]
 

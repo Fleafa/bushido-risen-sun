@@ -1,11 +1,6 @@
 @use "./variables.scss" as *;
 @use "./base.scss";
 
-#nobtb {
-	margin: 0;
-	height: 1em;
-}
-
 .page > #quartz-body .sidebar {
 	margin-top: 2rem;
 }
@@ -16,6 +11,21 @@
 
 a.internal {
 	background-color: transparent;
+}
+
+img {
+	margin: -.6rem 0;
+}
+
+.feat-icons {
+	color: var(--darkgray);
+	margin: 0;
+	font-weight: 700;
+	font-size: 32px;
+  }
+
+.feat-icons img {
+	margin: -.4rem 0;
 }
 
 /*-------------------------------------------
