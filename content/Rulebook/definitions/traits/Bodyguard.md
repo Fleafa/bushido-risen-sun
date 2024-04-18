@@ -1,11 +1,11 @@
 ---
 title: Bodyguard [Descriptor](X")
 ---
-If an Enemy model declares an action that would move it into[[BtB]] with a [Descriptor] Friendly model, or Targets the [Descriptor] Friendly model with a Ranged Attack, this model may switch positions with the Friendly model before the action begins if the following conditions are met:
+If an Enemy model declares an action that would move it into [[BtB]] with a [Descriptor] Friendly model, or Targets the [Descriptor] Friendly model with a Ranged Attack, this model may switch positions with the Friendly model before the action begins if the following conditions are met:
 - The Friendly model is within X” and in LoS.
-- The Friendly model was not in[[BtB]] with an Enemy model at the start of the activation.
-- This model is not in[[BtB]] with an Enemy model.
-- This model is not Exhausted or [[[[Prone]]]].
+- The Friendly model was not in BtB with an Enemy model at the start of the activation.
+- This model is not in BtB with an Enemy model.
+- This model is not [[Exhausted]] or [[Prone]].
 - If the Enemy model has Fear, the bodyguard must pass a fear test.
 - Both models switching positions can fit within the space the other model occupied on the table without moving any other models.
 - If bodyguarding a larger based model, your opponent places the bodyguard anywhere within the area covered by the larger base then you choose facing.
