@@ -32,11 +32,11 @@ export const SubSymbols: QuartzTransformerPlugin<Partial<Options> | undefined> =
 				src = src.toString()
 				src = src.replaceAll(findNoBtB, (value, ...capture) => {
 				//	const [src] = capture
-					return '<a href="/Rulebook/definitions/feats/noBtB"><img id="nobtb" title="no base to base" alt="no base to base" src="/images/nobtb.png"></a>'
+					return '<a href="/Rulebook/definitions/feats/noBtB"><img alt="noBtB" src="/images/noBtB.png"></a>'
 				})
 				src = src.replaceAll(findNoMove, (value, ...capture) => {
 				//	const [src] = capture
-					return '<a href="/Rulebook/definitions/feats/noMove"><img id="nomove" title="no move" alt="no move" src="/images/nomove.png"></a>'
+					return '<a href="/Rulebook/definitions/feats/noWalk"><img alt="no walk" src="/images/noWalk.png"></a>'
 				})
 			}
 			return src

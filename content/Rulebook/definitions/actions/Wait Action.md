@@ -1,4 +1,4 @@
-![[noBtB.png]] ![[noMove.png]]
+![[noBtB.png]] ![[noWalk.png]]
 The Activating model takes no other action. Instead, it may choose one of the listed effects triggered by taking the Wait Action:
 - Remove all [[Stunned]] Markers
 - Remove all [[Immobilised]] Markers
