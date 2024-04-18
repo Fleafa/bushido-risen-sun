@@ -35,3 +35,5 @@ Some TOs like to roll each scenario live in front of the players, this creates a
 | 1-3 | 30mm base               | | 1-2 | Open      |
 | 4-6 | 50mm base               | | 3-4 | Hidden    |
 | | | | 5-6 | Nominated |
+# Other Scenarios
+[[Honbasho]]
