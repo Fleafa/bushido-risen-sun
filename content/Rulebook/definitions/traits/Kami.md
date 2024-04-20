@@ -1,5 +1,5 @@
 ---
-revision: 2
+revision: 1
 ---
 When this model is deployed it gains Ki tokens equal to its maximum Ki.  
 When this model would suffer wounds, instead remove an equal number of Ki tokens.  
@@ -8,5 +8,5 @@ If this model has no Ki tokens, it is Killed then Removed from Play.
 
 This model may not gain Ki tokens as a result of the [[Channel]] trait.  
 This Model cannot have Ki tokens removed as a result of the [[Leech]] trait.  
-This model has Immune [ ([[Poisoned]]/[[On Fire]]/[[Bleeding]]/[[Diseased]] ] and cannot be [[Heal|Healed]].  
+This model has [[Immune]] [ [[Poisoned]]/[[On Fire]]/[[Bleeding]]/[[Diseased]] ] and cannot be [[Heal|Healed]].  
 A Kami model may not use a Ki Feat if spending the Ki Tokens would cause it to lose all its remaining Ki Tokens.
