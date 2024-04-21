@@ -23,37 +23,24 @@ Ranged attacks will never have Special Defences because there are no defence dic
 
 # Special Attacks
 
-Combo Attack
-If the Attack is successful then after resolving a Damage Roll, deduct 2 from the Success Level of the Attack. If the new Success Level is 0 or greater make another Damage Roll against the Defender. Repeat this process until the Success Level is less than 0. If the Success Level of the original attack was 0 or 1, after resolving a Damage Roll, make one additional Damage Roll against the Defender at Success Level 0.
+![[Combo Attack]]
 
 >[!NOTE]
 >If a model has abilities that trigger when damage is caused each damage roll will trigger those abilities separately.
 
-Critical Attack
-If this model’s Attack is successful, and the individual dice results of the Damage Roll are the same number, remove the Defender from play.
+![[Critical Attack]]
 
 Drag Attack
-If the Attack is successful, move the Attacker 1” away from the Defender, then move the Defender 1” directly toward the Attacker.
-The Defender does not suffer a Damage Roll from this Attack.
 
 Forceback Attack
-If the Attack is successful, move the Defender 1” directly away from the Attacker, then move the Attacker 1” directly towards the Defender.
-The Defender suffers half the wounds from the Damage Roll caused by this Attack.
 
 Grapple Attack
-If the attack is successful, the Defender becomes Held. Place a Held marker on the Defender.
-The Defender does not suffer a Damage roll from this Attack but may not attack during this Melee Exchange.
 
 Powerful Attack
-If the Attack is successful, then the Attacker gains +3 to the Damage Roll caused by this Attack.
 
 Push Attack
-If the Attack is successful, move the Defender directly away from this model until it leaves this model’s ZoC.
-The Defender does not suffer a Damage Roll from this Attack.
 
 Sidestep Attack
-If the Attack is successful, the Attacker leaves[[BtB]] and then move away from the Defender until The Attacker leaves The Defender’s ZoC, at which point its movement ends.
-The Attacker makes no damage roll.
 
 Slam Attack
 If the Attack is successful, the Defender is moved 3” directly away from the Attacker and becomes Prone.
