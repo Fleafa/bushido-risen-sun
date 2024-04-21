@@ -25,79 +25,52 @@ Ranged attacks will never have Special Defences because there are no defence dic
 
 ![[Combo Attack]]
 
->[!NOTE]
->If a model has abilities that trigger when damage is caused each damage roll will trigger those abilities separately.
-
 ![[Critical Attack]]
 
-Drag Attack
+![[Drag Attack]]
 
-Forceback Attack
+![[Forceback Attack]]
 
-Grapple Attack
+![[Grapple Attack]]
 
-Powerful Attack
+![[Powerful Attack]]
 
-Push Attack
+![[Push Attack]]
 
-Sidestep Attack
-<<<<<<< HEAD
-=======
-If the Attack is successful, the Attacker leaves [[BtB]] and then move away from the Defender until The Attacker leaves The Defender’s ZoC, at which point its movement ends.
-The Attacker makes no damage roll.
->>>>>>> refs/remotes/origin/v4
+![[Sidestep Attack]]
 
-Slam Attack
-If the Attack is successful, the Defender is moved 3” directly away from the Attacker and becomes Prone.
-The Defender suffers half the wounds from the Damage Roll caused by this Attack.
+![[Slam Attack]]
 
-Stun Attack
-If the attack is Successful, the Defender gains a Stunned Marker after the Damage Roll.
+![[Stun Attack]]
 
-Sweep Attack
-If the Attack is successful, then the Defender becomes Prone.
-The Defender suffers half the wounds from the Damage Roll caused by this Attack.
+![[Sweep Attack]]
 
-Throw Attack
-If the Attack is successful, the Defender is moved 2” in a straight line and becomes Prone.
-The Defender suffers half the wounds from the Damage Roll caused by this Attack.
+![[Throw Attack]]
 
 # Special Defences
-Counterstrike Defence
-If this Defence is successful, and the Attacker allocated any dice to Attack, then deduct 2 from the Success Level of the Defence.
-If the Success Level is 0 or greater, then make a Damage Roll against the Attacker using the modified Success Level of the Defence.
+![[Counterstrike Defence]]
 
-Drag Defence
-If the Defence is successful, move the Defender 1” away from the Attacker, then move the Attacker directly into [[BtB]] with the Defender.
+![[Drag Defence]]
 
-Forceback Defence
-If the Defence is successful, move the Attacker 1” directly away from the Defender, then move the Defender directly into [[BtB]] with the Attacker.
+![[Forceback Defence]]
 
-Grapple Defence: If the Defence is successful, the Attacker becomes Held. Place a Held marker on the Attacker.
+![[Grapple Defence]]
 
-Push Defence
-If the Defence is successful, move the Attacker directly away from the Defender until it leaves the defender’s ZoC.
+![[Push Defence]]
 
-Sidestep Defence
-If the Defence is successful, the Defender leaves [[BtB]] and then move away from the Attacker until the Defender leaves The Attacker’s ZoC, at which point its movement ends.
+![[Sidestep Defence]]
 
-Sweep Defence
-If the Defence is successful, then the Attacker becomes Prone.
+![[Sweep Defence]]
 
-Throw Defence
-If the Defence is successful, the Attacker is moved 2” away from the Defender in a straight line and becomes Prone.
+![[Throw Defence]]
 # Exceptional Attacks & Defences
 Some techniques are only known to a few Masters of the sword or fist. Exceptional attacks and defences are detailed on individual profile cards; a few examples are detailed below.
 
-Eagle’s Flight Defence
-If the Defence is successful this model may Move 3” after the Melee Exchange is resolved.
+![[Eagle’s Flight Defence]]
 
-Ivory Prison Attack
-If this Attack is successful then remove the non- Insignificant, non-Soulless Target from play and deploy a Prone, non-unique Kairai under your control by replacing the target.
+![[Ivory Prison Attack]]
 
-Gokusatsu Attack
-If this attack is Successful, remove the defender and attacker from play.
-If the enemy model has this Exceptional Attack, then this attack has no effect on either combatant.
+![[Gokusatsu Attack]]
 
 | [[Wound Table]] <<< |     | >>> [[Model States]] |
 | ------------------- | --- | -------------------- |

@@ -1,0 +1,2 @@
+If the Attack is successful, the Attacker leaves [[BtB]] and then move away from the Defender until The Attacker leaves The Defender’s [[ZoC]], at which point its movement ends.
+The Attacker makes no damage roll.
