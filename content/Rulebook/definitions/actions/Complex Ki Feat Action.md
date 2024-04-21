@@ -1,2 +1,2 @@
 The Activating model may attempt a Complex Ki feat listed on its profile card.  
-Some Ki Feats have the ![[noBtB.png]] or ![[noMove.png]] Icons; these icons apply to this action if the chosen Ki Feat has them.
+Some Ki Feats have the ![[noBtB.png]] or ![[noWalk.png]] Icons; these icons apply to this action if the chosen Ki Feat has them.

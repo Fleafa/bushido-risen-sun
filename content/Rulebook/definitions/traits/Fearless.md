@@ -1,1 +1,1 @@
-This model automatically succeeds when taking Fear tests and has [[Immune]] [[[Frightened]]].
+This model automatically succeeds when taking Fear tests and has [[Immune]] [ [[Frightened]] ].

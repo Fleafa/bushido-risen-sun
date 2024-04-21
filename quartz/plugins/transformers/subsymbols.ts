@@ -1,5 +1,4 @@
 import { QuartzTransformerPlugin } from "../types"
-import replace from 'stream-replace-string'
 
 export interface Options {
 	enableSubSymbols: boolean
@@ -9,8 +8,8 @@ const defaultOptions: Options = {
 	enableSubSymbols: true,
 }
 
-const findNoBtB = new RegExp(/(?:(?:={2})|(?:\[{2}))[nN]oBtB(?:(?:={2})|(?:\]{2}))/, "g")
-const findNoMove = new RegExp(/(?:(?:={2})|(?:\[{2}))[nN]oMove(?:(?:={2})|(?:\]{2}))/, "g")
+const findNoBtB = new RegExp(/(?:!\[{2})[nN]oBtB.png(?:\]{2})/, "g")
+const findNoMove = new RegExp(/(?:!\[{2})[nN]oMove.png(?:\]{2})/, "g")
 const findFeatActive = new RegExp(/\=\=[aA]ctive\=\=/, "g")
 const findFeatInstant = new RegExp(/\=\=[iI]nstant\=\=/, "g")
 const findFeatSimple = new RegExp(/\=\=[sS]imple\=\=/, "g")
@@ -33,11 +32,11 @@ export const SubSymbols: QuartzTransformerPlugin<Partial<Options> | undefined> =
 				src = src.toString()
 				src = src.replaceAll(findNoBtB, (value, ...capture) => {
 				//	const [src] = capture
-					return '<a href="../Rulebook/definitions/feats/noBtB"><img id="nobtb" title="no base to base" alt="no base to base" src="../images/nobtb.png"></a>'
+					return '<a href="/Rulebook/definitions/feats/noBtB"><img alt="noBtB" src="/images/noBtB.png"></a>'
 				})
 				src = src.replaceAll(findNoMove, (value, ...capture) => {
 				//	const [src] = capture
-					return '<a href="../Rulebook/definitions/feats/noMove"><img id="nobtb" title="no move" alt="no move" src="../images/nomove.png"></a>'
+					return '<a href="/Rulebook/definitions/feats/noWalk"><img alt="no walk" src="/images/noWalk.png"></a>'
 				})
 			}
 			return src

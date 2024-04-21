@@ -7,4 +7,4 @@ limitations:
   - noWalk
   - noBtB
 ---
-This model gains [[Order]] [Ashigaru](3/8") until the End Phase.
+This model gains [[Order]] [Ashigaru] (3/8") until the [[End Phase]].

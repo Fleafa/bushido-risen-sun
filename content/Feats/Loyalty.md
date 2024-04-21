@@ -4,4 +4,4 @@ cost: 2
 timing: Active
 subject: Personal
 ---
-This model gains [[Bodyguard]] [Friendly](1") until the End Phase.
+This model gains [[Bodyguard]] [Friendly] (1") until the End Phase.

@@ -18,46 +18,51 @@ export default (() => {
 	  const text = fileData.text
   
 	  if (text) {
-		var icons: string[] = []
   
-		const cost: any = fileData.frontmatter?.cost
-		icons.push(cost)
-		
-		const timing: string = '<img src="/images/Timing-' + fileData.frontmatter?.timing + '.png"/>'
-		icons.push(timing)
-		
-		const subject: string = '<img src="/images/Subject-' + fileData.frontmatter?.subject + '.png"/>'
-		icons.push(subject)
-		
-		const range: any = fileData.frontmatter?.range
+		const cost = fileData.frontmatter?.cost
+		var costStr
+		const timing = fileData.frontmatter?.timing
+		var timingVar
+		const subject = fileData.frontmatter?.subject
+		var subjectVar
+		const range = fileData.frontmatter?.range
+		var rangeStr
+		const oppKi = fileData.frontmatter?.opposed
+		var oppKiVar
+		const limitations = fileData.frontmatter?.limitations?.toString().split(",")
+		var limitVar = []
+
+		if (cost != null){ costStr = cost + ' ' }
+
+		if (timing != null) { timingVar = <img class="timing" src={'/images/Timing-' + timing + '.png'} alt={timing}></img>	}
+
+		if (subject != null){ subjectVar = <img src={'/images/Subject-' + subject + '.png'} alt={subject}></img> }
+
 		if (range != null){
-			icons.push(range)
-		}
-
-		if ( fileData.frontmatter?.opposed == true ){
-			icons.push('<img src="/images/OppKi.png"/>')
-		}
-
-		const limitations: any = fileData.frontmatter?.limitations
-		if (limitations != null){			
-			for (const limit in limitations){
-				const limitIcon: string = '<img src="/images/' + limit + '.png"/>'
-				icons.push(limitIcon)
+			if (range == "BtB"){
+				rangeStr = ' BtB '
+			} else {
+			rangeStr = ' ' + range + '" '
 			}
 		}
-  
-		return <p class={classNames(displayClass, "feat-icons")}>{icons.join(" ")}</p>
+
+		if ( oppKi == true ){ oppKiVar = <img src="/images/OppKi.png" alt="Opposed Ki Test"></img> }
+		
+		if (limitations != null){
+			for (var i = 0; i < limitations.length; i++) {
+				if (limitations[i] != 'OpA') {
+					const iVar = <a href={'/Rulebook/definitions/feats/' + limitations[i]}><img src={'/images/' + limitations[i] + '.png'} alt={limitations[i]}></img></a>
+					limitVar.push(iVar)
+				}
+			}
+		}
+
+		return <p class={classNames(displayClass, "feat-icons")}>{costStr}{timingVar}{subjectVar}{rangeStr}{oppKiVar}{limitVar}</p> 
 	  } else {
 		return null
 	  }
 	}
-  
-	FeatIconsdata.css = `
-	.feat-icons {
-	  margin-top: 0;
-	  color: var(--gray);
-	}
-	`
+
 	return FeatIconsdata
   }) satisfies QuartzComponentConstructor
   

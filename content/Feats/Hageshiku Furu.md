@@ -12,4 +12,4 @@ This model gains [[Aware]] and the following Ranged Weapon until this feat is re
 This model then makes a Ranged Attack against each other model (Friendly or Enemy) in Range and LoS, in any order and ignoring [[Camouflage]]. These Attacks are not affected by the penalty for having made Ranged Attacks previously in the turn and do not roll the test if the target is in BtB with an Enemy model.
 - Ranged Weapon Strength: +2
 - Range Bands: -/-/4
-- Traits: [[Brutal]](1)
+- Traits: [[Brutal]] (1)
