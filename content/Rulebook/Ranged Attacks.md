@@ -41,7 +41,7 @@ if you hit your Target or the Friendly model.
 3.  
 	1. The players declare the use of any Instant or Active Ki Feats (Active player declares last).
 	2. If the target was in [[BtB]] with an enemy model, you must now check to see if you hit the correct target.
-4. The Active Player then makes a Damage Roll against the Target model.
+4. The Active Player then makes a [[Damage Roll]] against the Target model.
 	1. Any model may use instant Ki feats at this step.
 5. The model gains any Reload markers and removes Ammo Tokens (if applicable) from the weapon on the model’s profile card.
 6. The Ranged Attack is now resolved.
@@ -58,8 +58,6 @@ if you hit your Target or the Friendly model.
 
 </span>
 
-<span class="headedtable">
-
 | Effect                                                       | Modifier |
 | ------------------------------------------------------------ | -------- |
 | Target is Tiny                                               | +1       |
@@ -72,8 +70,6 @@ if you hit your Target or the Friendly model.
 | Target Ran this turn                                         | +1       |
 | Activating model Moved, or will Move, as part of this action | +1       |
 | Activating model already made a Ranged Attack this turn      | +1       |
-
-</span>
 
 *Traits and Effects may also modify the roll.*
 ## Targeting a Model in [[BtB]] with a Friendly Model
