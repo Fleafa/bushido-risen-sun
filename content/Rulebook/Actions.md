@@ -6,7 +6,7 @@ Models in [[BtB]] with an Enemy model may not declare Actions or [[Ki Feats]] wi
 
 If a model performs an action with the ![[noWalk.png]] icon then it may not perform a walk alongside the action. The [[Active Player]] chooses which model they are activating (the [[Activating Model]]) and what Simple or Complex action the model will take.
 
-Remember Exhausted models cannot be chosen to activate, but can still participate in Melee Exchanges if [[Target|Targeted]] by a Charge or [[Select|Selected]] for a Melee action.
+Remember Exhausted models cannot be chosen to activate, but can still participate in Melee Exchanges if [[definitions/feats/Target|Targeted]] by a Charge or [[Select|Selected]] for a Melee action.
 
 ![[Condition]]
 # Standard Actions

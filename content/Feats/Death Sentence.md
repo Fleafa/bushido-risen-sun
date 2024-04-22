@@ -9,4 +9,4 @@ limitations:
   - noBtB
   - OpT
 ---
-Target Enemy model gains a [[Death Sentence]] Marker.
+Target Enemy model gains a [[Feats/Death Sentence]] Marker.

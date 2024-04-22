@@ -7,4 +7,4 @@ range: 6
 limitations:
   - OpT
 ---
-Target Enemy that is not an Animal must choose to either gain a [[Death Sentence]] Marker or transfer 1 of its Ki Tokens to this model.
+Target Enemy that is not an Animal must choose to either gain a [[Feats/Death Sentence]] Marker or transfer 1 of its Ki Tokens to this model.

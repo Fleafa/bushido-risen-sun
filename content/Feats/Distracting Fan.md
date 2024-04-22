@@ -7,5 +7,5 @@ opposed: true
 limitations:
   - OpT
 ---
-During an Enemy model's activation in which it entered into [[BtB]] with, or [[Target|Targets]] another Fan Dancer model with a Ranged Attack or Ki Feat, but before any [[Melee Exchange]] begins, place that Fan Dancer model within 2" of its current location.
+During an Enemy model's activation in which it entered into [[BtB]] with, or [[definitions/feats/Target|Targets]] another Fan Dancer model with a Ranged Attack or Ki Feat, but before any [[Melee Exchange]] begins, place that Fan Dancer model within 2" of its current location.
 The Enemy model's action is then considered resolved.

@@ -16,7 +16,7 @@ A: They have exactly as much health as they had the last time they were in play 
 **Q: How are Activation Counters actually handled when Phantom or Spectre [[Summon]] the other of the pair?**
 A: Removing the Summoning model from play ends their activation and they lose an Activation Counter. The Summoned model then receives the remaining Activation Counters. The Summoned model does not immediately activate. Effectively, the Summoning was the complete activation. Their ability to swap places on the battlefield is not affected by this, the active model remains active and continues their activation.
 
-**Q: Who is the origin for the [[damage roll]] from Spectre's unique effect?**
+**Q: Who is the origin for the [[Damage Roll]] from Spectre's unique effect?**
 A: Spectre is the origin for this damage roll, so Spectre's weapon, modifiers and Traits apply to this damage roll.
 
 **Q: State Markers are not transferred over when Phantom or Spectre [[Summon]] the other of the pair, what happens to these Markers? **

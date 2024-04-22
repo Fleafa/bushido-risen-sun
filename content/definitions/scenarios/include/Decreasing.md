@@ -1,0 +1,1 @@
+During the End Phase of a Turn after scoring VPs, if a VP was scored, the player who did not score may choose one Objective to remove.

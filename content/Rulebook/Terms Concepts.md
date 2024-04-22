@@ -59,7 +59,7 @@ title: Terms & Concepts
 
 ![[Owner]]
 
-![[Rulebook/definitions/terms/Place]]
+![[definitions/terms/Place]]
 
 ![[Replace]]
 
@@ -73,7 +73,7 @@ title: Terms & Concepts
 
 ![[Surprised]]
 
-![[Rulebook/definitions/terms/Target]]
+![[definitions/terms/Target]]
 
 ![[Test]]
 

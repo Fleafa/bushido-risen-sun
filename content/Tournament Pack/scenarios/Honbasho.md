@@ -24,11 +24,11 @@ The tournament organiser should decide what terrain is placed on each table, how
 
 # Honbasho Scenario
  - Type:
-	- Advanced VIM (Open)
+	- Advanced [[VIM]] ([[Open]])
 - Deployment:
 	- Baseline
 - Game Length:
-	- Fixed (unlimited, based on time)
+	- [[Fixed]] (unlimited, based on time)
 - Special Rules:
 	- Honbasho is played on a 1’x 1’ Table.
 	- The player whose VIM kills the opposing VIM wins the game. Any other result is a loss for both players.

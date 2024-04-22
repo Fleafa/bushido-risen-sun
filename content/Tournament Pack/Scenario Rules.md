@@ -28,14 +28,18 @@ When scoring Scenario Points according to the Alignment of a Zone or Scenario Ob
 | Friendly  | 1               |
 | Neutral   | 2               |
 | Enemy     | 3               |
-![[VIM]]
+
 
 ![[Objectives]]
 
 ![[Zone Control]]
 
 ![[Game Length]]
+## Scenario Reset
+Some scenarios reset aspects on certain turns:
 
-![[Scenario Reset]]
+![[Reset Scenario Points]]
+
+![[Reset Alignment]]
 
 ![[Victory Conditions]]

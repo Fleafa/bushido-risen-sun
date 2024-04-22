@@ -39,7 +39,7 @@ Ki Feats are further classified by whom they affect
 
 ![[Personal]]
 
-![[Rulebook/definitions/feats/Target]]
+![[definitions/feats/Target]]
 
 ![[Opposed]]
 

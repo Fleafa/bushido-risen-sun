@@ -1,0 +1,1 @@
+Each player simultaneously declares one of their own models as the VIM. That model loses the [[Flank]] trait and [[Disguised]] state and cannot gain them.

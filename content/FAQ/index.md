@@ -49,13 +49,13 @@ A: They stay Elsewhere until some other trait or effect can bring them back to t
 **Q: If I used War Weary and then deploy a model with [[Flank]] on the same turn, do they get 2 Activation Counters?**
 A: No, War Weary states its duration: “In the first turn”, so models coming in with Flank will still only get a single Activation Counter.
 
-**Q: Can a [[kami]] spend Ki Tokens to reduce itself to 0 Ki?**
+**Q: Can a [[Kami]] spend Ki Tokens to reduce itself to 0 Ki?**
 A: No.
 
 **Q: How does [[Assassin]] work in conjunction with [[Strong]] or [[Weak]]?**
 A: Assassin trumps either trait. Technically the player would choose which trait to resolve first, but there is no reason not to choose Assassin if able as the quantity of damage dice is specified and would not change due to the addition of Strong or Weak.
 
-**Q: Can you declare a [[Charge]] where only the movement over [[ideal]] terrain in the charge path will give you enough movement to reach the charge target? **
+**Q: Can you declare a [[Charge]] where only the movement over [[Ideal]] terrain in the charge path will give you enough movement to reach the charge target? **
 A: Yes.
 
 **Q: Do I have to roll any dice to take advantage of [[Brutal]]/[[Parry]]/[[Resistance]]?**
