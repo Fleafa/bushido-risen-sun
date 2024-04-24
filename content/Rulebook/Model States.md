@@ -2,7 +2,7 @@
 - [[Bleeding]]
 - [[Blind]]
 - [[Controlled]]
-- [[definitions/states/Death Sentence]]
+- [[States/Death Sentence]]
 - [[Diseased]]
 - [[Disguised]]
 - [[Frightened]]

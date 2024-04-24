@@ -85,7 +85,7 @@
 - [[Mettle|Mettle]]
 - [[Oni Rage|Oni Rage]]
 - [[Order|Order]]
-- [[definitions/traits/Overwhelm|Overwhelm]]
+- [[Traits/Overwhelm|Overwhelm]]
 - [[Pack|Pack]]
 - [[Parry|Parry]]
 - [[Pierce|Pierce]]
@@ -101,7 +101,7 @@
 - [[Resistance|Resistance]]
 - [[Rise|Rise]]
 ## S
-- [[definitions/traits/Sacrifice|Sacrifice]]
+- [[Traits/Sacrifice|Sacrifice]]
 - [[Scout|Scout]]
 - [[Sharp|Sharp]]
 - [[Sixth Sense|Sixth Sense]]

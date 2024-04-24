@@ -4,4 +4,4 @@
 
 ![[Unblockable]]
 
-![[definitions/traits/Overwhelm]]
+![[Traits/Overwhelm]]
