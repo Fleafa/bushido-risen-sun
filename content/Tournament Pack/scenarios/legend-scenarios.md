@@ -1,5 +1,5 @@
 ---
-title: Legend
+title: Scenarios Legend
 ---
 
 |                        |                                             |
