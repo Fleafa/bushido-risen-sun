@@ -140,6 +140,3 @@ A player can only use one Theme per [[Warband]]. Themed lists allow you to trade
   Other models may require a specific model to be recruited into the Warband before they can be included.
   If a model is permitted in a Theme then any model it allows to be recruited is also allowed in the theme regardless of any Exclusion.
   If a model or special card is permitted in a theme list, any model summoned by that model is also allowed to be summoned.
-
-| [[Terms Concepts\|Terms & Concepts]] <<< |     | >>> [[Rules Conflicts]] |
-| ---------------------------------------- | --- | ----------------------- |

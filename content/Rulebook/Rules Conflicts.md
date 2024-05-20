@@ -12,5 +12,3 @@ When two rules come into direct conflict, use the following order of precedence 
 > Slam Attack makes no reference to Immovable, & vice versa - so test 1 does not resolve this.
 > As per test 2, since Immovable is stopping an effect from happening, it takes priority over the Slam rules so Manu is not moved or made Prone.
 
-| [[Cards]] <<< |     | >>> [[Warband Composition]] |
-| ------------- | --- | --------------------------- |

@@ -8,5 +8,3 @@
 
 ![[legend-deployment]]
 
-| [[Rulebook/Scenario Rules]] <<< |     |     |
-| ---------------------- | --- | --- |

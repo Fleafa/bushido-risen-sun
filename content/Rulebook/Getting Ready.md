@@ -14,5 +14,3 @@ For a game of Bushido, each player will need:
 - Several pieces of terrain. These can vary in size, but no single piece should be larger than 9”x9”.
 - Optionally: Special Attack / Defence Cards for reference and a Bushido Token Set to help track ‘in-game’ states and effects.
 
-| [[Game Overview]] <<< |     | >>> [[Terms Concepts\|Terms & Concepts]] |
-| --------------------- | --- | ---------------------------------------- |

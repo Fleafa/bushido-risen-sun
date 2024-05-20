@@ -51,5 +51,3 @@ Ki Feats are further classified by whom they affect
 
 ![[Ki Boosts]]
 
-| [[Model States]] <<< |     | >>> [[Traits]] |
-| -------------------- | --- | -------------- |

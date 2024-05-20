@@ -28,5 +28,3 @@ From three Imperial Princesses expecting hospitality from the Tengu, to Sojobo l
 > [!example]
 > It is possible to create a Warband entirely made of Ronin. First choose a faction (Prefecture, Ito, Silvermoon etc…) and choose Ronin available to that faction. It is not a “Ronin Faction” list as this is not permitted.
 
-| [[Rules Conflicts]] <<< |     | >>> [[Game Setup Turn\|Game Setup & Turn]] |
-| ----------------------- | --- | ------------------------------------------ |

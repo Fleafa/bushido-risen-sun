@@ -72,5 +72,3 @@ Some techniques are only known to a few Masters of the sword or fist. Exceptiona
 
 ![[Gokusatsu Attack]]
 
-| [[Wound Table]] <<< |     | >>> [[Model States]] |
-| ------------------- | --- | -------------------- |

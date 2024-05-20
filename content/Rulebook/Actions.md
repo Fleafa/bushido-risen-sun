@@ -40,5 +40,3 @@ Standard actions in the game fall into two categories - Simple or Complex. Simpl
 
 ![[Complex Scenario Action]]
 
-| [[Movement Placing\|Movement & Placing]] <<< |     | >>> [[Tests]] |
-| -------------------------------------------- | --- | ------------- |

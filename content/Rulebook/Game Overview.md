@@ -4,6 +4,3 @@ In the world of Bushido the delicate tapestry of Ki and thus the universe itself
 Bushido is an exciting skirmish game designed for two players using exquisite 32mm miniatures. Take control of heroes or villains and clash with others for control of the Isles of Jwar!
 They say that the monks record their histories in scrolls and chanting, while the samurai write their legacy in blood, but in an intense game of Bushido, how you write your account is up to you!
 You’ll take turns moving your models around the battlefield, then rolling dice to see if your well-planned strategies succeed or fail. Bushido is not only about intense melee between razor-sharp swords and fists, but completing intricate Scenarios to score objectives and win the game. Strategy and savagery go hand-in-hand in a game of **Bushido: Risen Sun**.
-
-|     |     | >>> [[Getting Ready]] |
-| --- | --- | --------------------- |

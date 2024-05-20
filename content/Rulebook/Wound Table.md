@@ -37,5 +37,3 @@ If the final result would be higher than 12, treat it as 12.
 > Masaema Aya manages to hit Ito Itsunagi for a Success Level 3, Rolling 2D6 for damage she gets a 3 and 5, adding her Strength of +1 we see a total of 9.
 > Cross-referencing the results on the wound table, we see that Itsunagi Ito suffers 4 wounds.
 
-| [[Melee Exchange]] <<< |     | >>> [[Special Abilities]] |
-| ----------------------- | --- | ------------------------- |

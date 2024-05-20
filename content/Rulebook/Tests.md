@@ -35,5 +35,3 @@ When declaring the use of Ki Feats (Including Ki Boosts) during any test, the Op
 
 ![[Fear Challenge Test]]
 
-| [[Actions]] <<< |     | >>> [[Ranged Attacks]] |
-| --------------- | --- | ---------------------- |

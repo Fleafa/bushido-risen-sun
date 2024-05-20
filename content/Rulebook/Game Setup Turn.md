@@ -30,5 +30,3 @@ Each game Turn is divided into three Phases:
 
 ![[End Phase]]
 
-| [[Warband Composition]] <<< |     | >>> [[Movement Placing\|Movement & Placing]] |
-| --------------------------- | --- | -------------------------------------------- |

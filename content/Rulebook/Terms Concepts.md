@@ -90,5 +90,3 @@ title: Terms & Concepts
 ![[ZoC]]
 
 
-| [[Getting Ready]] <<< |     | >>> [[Cards]] |
-| --------------------- | --- | ------------- |
