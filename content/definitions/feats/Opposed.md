@@ -1,2 +1,2 @@
-![[OppKi.png]]  Feats with this icon require an [[Tests#Opposed Tests|opposed]] Ki test with the [[definitions/terms/Target|Target]].
+![[OppKi.png]]  Feats with this icon require an [[Opposed Test]] [Ki] with the [[Target]].
 If the test is successful, the feat takes effect.

@@ -6,5 +6,5 @@ subject: Target
 range: "6"
 opposed: true
 ---
-Opponent chooses up to two valid Actions for the [[definitions/terms/Target|Target]] model. You may veto one [[Actions|Action]].
+Opponent chooses up to two valid Actions for the [[Target]] model. You may veto one [[Actions|Action]].
 The model must perform the other Action if able. If it cannot do so, or if there are no remaining Actions, it becomes [[Exhausted]].

@@ -7,4 +7,4 @@ range: 6
 limitations:
   - OpT
 ---
-Target non-Exhausted Enemy model gains an [[Impetuous-state|Impetuous]] Marker.
+Target non-Exhausted Enemy model gains an [[Impetuous State|Impetuous]] Marker.

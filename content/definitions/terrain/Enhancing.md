@@ -1,2 +1,2 @@
-Models on hilly terrain or otherwise elevated gain [[Reach]] on their Melee Weapons for [[Melee Exchange|Melee Exchanges]] where a non-[[Cloudwalk]] opponent did not begin its activation on the same terrain as they hold the high ground.
-In addition, they ignore models and terrain smaller than the Enhancing terrain for [[LoS|LoS]] (though such terrain can still provide cover if a LoS passes through them).
+Models on hilly terrain or otherwise elevated gain [[Reach]] on their Melee Weapons for [[Melee Exchange|Melee Exchanges]] where a non-Cloudwalk opponent did not begin its activation on the same terrain as they hold the high ground.
+In addition, they ignore models and terrain smaller than the Enhancing terrain for [[LoS]] (though such terrain can still provide cover if a LoS passes through them).

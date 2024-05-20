@@ -5,4 +5,4 @@ timing: Active
 subject: Target
 range: BtB
 ---
-Remove one [[Berserk]], [[Controlled]], [[Frightened]], [[Impetuous-state|Impetuous]], [[Spirit]] Block or [[Stunned]] Marker from Target Non-Animal model.
+Remove one [[Berserk]], [[Controlled]], [[Frightened]], [[Impetuous State|Impetuous]], [[Spirit]] Block or [[Stunned]] Marker from Target Non-Animal model.

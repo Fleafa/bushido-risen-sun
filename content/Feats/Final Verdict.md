@@ -9,5 +9,5 @@ limitations:
   - noBtB
   - OpT
 ---
-Your Opponent must choose either a [[Feats/Death Sentence]] marker or a [[Controlled]] Marker.
+Your Opponent must choose either a [[Death Sentence State|Death Sentence]] marker or a [[Controlled]] Marker.
 Target Enemy model gains one of the chosen Marker.

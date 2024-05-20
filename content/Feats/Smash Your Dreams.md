@@ -6,4 +6,4 @@ subject: Target
 range: "6"
 opposed: true
 ---
-[[definitions/terms/Target|Target]] model cannot benefit from the [[Brutal]], [[Dodge]], [[Feint]], [[Kata]], [[Lightning Reflexes]], [[Parry]], [[Prowess]], or [[Reach]] traits until the end of the current activation.
+[[Target]] model cannot benefit from the [[Brutal]], [[Dodge]], [[Feint]], [[Kata]], [[Lightning Reflexes]], [[Parry]], [[Prowess]], or [[Reach]] traits until the end of the current activation.

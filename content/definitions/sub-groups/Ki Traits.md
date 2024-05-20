@@ -18,7 +18,7 @@
 [[Mettle]]
 [[Resistance]]
 [[Soulless]]
-# [[Fear|Fear]]
+# [[Fear]]
 [[Bravery]]
 [[Cowardly]]
 [[Courage]]

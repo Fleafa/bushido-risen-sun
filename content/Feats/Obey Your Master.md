@@ -6,4 +6,4 @@ subject: Target
 range: "6"
 opposed: true
 ---
-[[definitions/terms/Target|Target]] model gains a [[Controlled]] Marker.
+[[Target]] model gains a [[Controlled]] Marker.

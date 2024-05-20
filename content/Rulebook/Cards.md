@@ -54,9 +54,9 @@ All models in Bushido have a melee weapon, though for  any they are fists and fe
 	- Ranged Attacks against Targets at distances exceeding the weapon’s Long Range automatically fail.
 2. A weapon’s Strength modifier to any Damage Rolls made by this weapon. **Sp** Indicates a special effect instead of a standard damage roll The attack does no damage, some of these weapons have properties detailed in the Unique Effects section of the model’s profile card.
 3. Any [[Traits]] associated with the weapon. 
-4. Any [[Special Abilities|Special Attacks and Defences]] available when using that weapon.
+4. Any [[Special Abilities]] available when using that weapon.
 ## Faction Symbol
-Which [[Faction]] the model belongs to. Some models are from the [[Warband Composition#Ronin Models|Ronin]] pseudo-Faction. Your [[Warband]] can only [[Warband Composition|recruit models]] that belong to your chosen Faction, or Ronin models recruitable by your chosen faction as indicated on the Ronin model’s card.
+Which [[Faction]] the model belongs to. Some models are from the Ronin pseudo-Faction. Your [[Warband]] can only [[Warband Composition|recruit models]] that belong to your chosen Faction, or Ronin models recruitable by your chosen faction as indicated on the Ronin model’s card.
 ## Unique Effects
 Any additional rules that are not [[Traits]] or [[Ki Feats]].
 ## Rice Cost

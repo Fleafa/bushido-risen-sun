@@ -21,7 +21,7 @@ steps:
 
 # A Game Turn
 Games of Bushido are broken down into a number of Turns.
-How many Turns the game lasts is dictated by the [[Rulebook/Scenarios|Scenario]] being played.
+How many Turns the game lasts is dictated by the Scenario being played.
 Each game Turn is divided into three Phases:
 
 ![[Starting Phase]]

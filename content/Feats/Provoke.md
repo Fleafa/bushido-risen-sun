@@ -8,4 +8,4 @@ range: 6
 limitations:
   - OpT
 ---
-Target Enemy model gains an [[Impetuous-state|Impetuous]] Marker, the Opposing Player may not declare use of a Pass Token next activation.
+Target Enemy model gains an [[Impetuous State|Impetuous]] Marker, the Opposing Player may not declare use of a Pass Token next activation.

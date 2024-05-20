@@ -6,4 +6,4 @@ subject: Special
 limitations:
   - OpG
 ---
-When this model is [[Deploy|Deployed]] from [[Flank]], turn all Enemy models to directly face it after it is deployed.
+When this model is [[Deploy]]ed from [[Flank]], turn all Enemy models to directly face it after it is deployed.

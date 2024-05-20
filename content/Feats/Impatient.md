@@ -6,4 +6,4 @@ subject: Personal
 limitations:
   - OpT
 ---
-This model gains an [[Impetuous-state|Impetuous]] Marker.
+This model gains an [[Impetuous State|Impetuous]] Marker.

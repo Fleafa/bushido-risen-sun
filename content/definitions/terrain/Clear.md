@@ -1,1 +1,1 @@
-No effect on [[LoS|LoS]].
+No effect on [[LoS]].

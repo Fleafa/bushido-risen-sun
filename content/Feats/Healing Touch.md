@@ -7,4 +7,4 @@ range: BtB
 limitations:
   - noBtB
 ---
-Target Friendly model in BtB [[Heal|Heals]] X wounds.
+Target Friendly model in BtB [[Heal]]s X wounds.
