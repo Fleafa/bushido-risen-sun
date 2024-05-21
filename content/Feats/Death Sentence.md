@@ -1,5 +1,5 @@
 ---
-title: [[Death Sentence]]
+title: Death Sentence
 cost: 4
 timing: Simple
 subject: Target

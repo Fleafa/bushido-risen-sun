@@ -1,5 +1,5 @@
 ---
-title: [[Overwhelm]]
+title: Overwhelm
 cost: 3
 timing: Active
 subject: Personal

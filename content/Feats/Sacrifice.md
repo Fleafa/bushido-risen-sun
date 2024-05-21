@@ -1,5 +1,5 @@
 ---
-title: [[Sacrifice]]
+title: Sacrifice
 cost: 1
 timing: Simple
 subject: Target
